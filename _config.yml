@@ -2,8 +2,7 @@
 
 title:            Cojorado
 locale:           en_US
-url:              http://cojorado.com
-
+url:              http://localhost:4000
 
 # Jekyll configuration
 

@@ -78,9 +78,8 @@ CO 34 stitches with size 7 needles
 
 Repeat rows 1 & 2 for each day, this will create what appears as one row. Since the Brioche stitch is a special fluffy flower, two rows equal what appears to be one wide row. By doing two rows each day, all the yarn ends will stay on the same side of the scarf and you won’t run into that problem of having the yarn you need on the other side of the row. The two stitches on either side of the pattern are to create a clean edge up the scarf, optional if you're not into that. 
 
-<!-- [insert photo of rows of yarn]
- -->
 ### Repeat
+
 To make this work for 2015, I had to do a few things.
 
 Set up the base high and low. Remember above when I mentioned that the average high and low were calculated throughout the year? Well that’s cool - except if I’m giving the spreadsheet new data every day. Those numbers are going to change on the daily, and mess up my grain, which will in turn mess up the colors that represent each temperature range.
@@ -90,7 +89,7 @@ Set up the base high and low. Remember above when I mentioned that the average h
 To make sure that didn’t happen, I used the data from 2014 to set a base, and then took the ability for the spreadsheet to calculate away. I put in static numbers for the high and the low, which gave me a grain (temperatures per color) of 9. Now when I enter new data every day in 2015, things won’t get recalculated and I won’t need to frog this scarf! 
 
 ### You can do it too! 
-I’ve made the spreadsheet [publicly available](https://docs.google.com/spreadsheets/d/1pjsKu63y7HSVjkdF7K62ibfLJBV95QZR4Mbh4eoGtWc/edit?usp=sharing) for this pattern, with all the work already done for you! All you need to do is enter in the highs and the lows for each day and it will calculate everything for you. Questions? Comment below!
+I’ve made the spreadsheet [publicly available](https://docs.google.com/spreadsheets/d/1pjsKu63y7HSVjkdF7K62ibfLJBV95QZR4Mbh4eoGtWc/edit?usp=sharing){:target="_blank"} for this pattern, with all the work already done for you! All you need to do is enter in the highs and the lows for each day and it will calculate everything for you. Questions? Comment below!
 
 _Note: anywhere you see a light blue cell is a cell you can edit. Well you can edit any cell you want - but these special blue cells are the ones that are used for calulations_
 
