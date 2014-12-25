@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-12-24T21:38:49-07:00</updated>
+<updated>2014-12-25T12:52:45-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Cara Jo</name>
@@ -26,7 +26,65 @@
     <uri>http://localhost:4000</uri>
     
   </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This pattern is available for download on &lt;a href=&quot;http://www.ravelry.com/patterns/library/basic-norwegian-star-hat&quot;&gt;Ravelry.com&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3 id=&quot;materials&quot;&gt;Materials:&lt;/h3&gt;
+&lt;p&gt;Worsted weight (4) yarn. 1 skein of each color. You will not use the entire skein of any color.
+Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
+
+&lt;h3 id=&quot;gauge&quot;&gt;Gauge:&lt;/h3&gt;
+&lt;p&gt;4 inches = 20 stitches and 27 rows&lt;/p&gt;
+
+&lt;h3 id=&quot;size&quot;&gt;Size:&lt;/h3&gt;
+&lt;p&gt;The hat will fit heads up to 58cm in diameter&lt;/p&gt;
+
+&lt;p&gt;Using the size 6 needles, loosely cast on (112) stitches.
+&lt;em&gt;Note: Pattern is worked over 16sts so if you need a smaller or larger hat make sure you cast on enough stitches to accommodate for a 16st pattern repeat.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Knit in K2, P2 ribbing for desired length (an inch or two for a beanie).&lt;/p&gt;
+
+&lt;p&gt;After cuff is desired length begin knitting in stockinette stitch (knit every round). &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-grid.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Continue until the end of the pattern. Pattern is worked over 16 sts. &lt;/p&gt;
+
+&lt;p&gt;Knit 1 row in main color.&lt;/p&gt;
+
+&lt;h4 id=&quot;begin-decreases&quot;&gt;Begin Decreases:&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Note: Switch to the double pointed needles when you don’t have enough stitches for the circular needles.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;* K14, K2tog* Repeat around. Knit 1 round.&lt;/p&gt;
+
+&lt;p&gt;*K13, K2tog* Repeat around. Knit 1 round&lt;/p&gt;
+
+&lt;p&gt;*K12, K2tog* Repeat around. Knit 1 round&lt;/p&gt;
+
+&lt;p&gt;*K11, K2tog* Repeat around. Knit 1 round&lt;/p&gt;
+
+&lt;p&gt;*K10, K2tog* Repeat around. Knit 1 round.&lt;/p&gt;
+
+&lt;p&gt;*K9, K2tog* Repeat around. Knit 1 round.	&lt;/p&gt;
+
+&lt;p&gt;*K8, K2tog* Repeat around. Knit 1 round.	&lt;/p&gt;
+
+&lt;p&gt;*K7, K2tog* Repeat around. &lt;/p&gt;
+
+&lt;p&gt;*K6, K2tog* Repeat around. &lt;/p&gt;
+
+&lt;p&gt;*K5, K2tog* Repeat around. &lt;/p&gt;
+
+&lt;p&gt;*K4, k2tog*&lt;/p&gt;
+
+&lt;p&gt;*K3, k2tog*&lt;/p&gt;
+
+&lt;p&gt;*K2tog* Repeat around.&lt;/p&gt;
+
+&lt;p&gt;Cut yarn, leaving at least 12 inches. Thread onto a needle, and weave the yarn through the remaining stitches. Weave through the stitches twice, if you choose. Tighten the top of the hat and weave in the ends. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
