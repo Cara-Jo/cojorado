@@ -1,0 +1,13 @@
+# Site navigation links
+
+#- title: Design
+#  url: /design/
+
+- title: Photography
+  url: /photography/
+
+- title: Knitting
+  url: /knitting/
+
+- title: About
+  url: /about/

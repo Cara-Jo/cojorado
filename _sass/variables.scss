@@ -1,0 +1,45 @@
+// TYPOGRAPHY ================================================
+$doc-font-size: 16;
+$doc-line-height: 23;
+$paragraph-indent: true !default;
+$base-font: 'Lato', 'Open Sans', helvetica, arial, sans-serif;
+$heading-font: 'Montserrat', 'Lato', 'Open Sans', helvetica, arial, sans-serif;
+$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+$alt-font: $base-font;
+
+// COLOR ======================================================
+$bodycolor      : #fff;
+$body-color     : $bodycolor;
+$textcolor      : #656771;
+$text-color     : $textcolor;
+$border-color   : $text-color;
+$basecolor 		  : #343434;	  
+$compcolor 		  : spin($basecolor, 180); 
+$bordercolor    : $basecolor;
+$white          : #fff;
+$black          : #111;
+$blue 			: #2DBCCC;
+$green			: #67D171;
+$pink			: #D36CB0;
+$accentcolor    : $blue;
+
+// Buttons
+$primary			: $blue;
+$success			: $green;
+$warning			: #dd8338;
+$danger				: #C64537;
+$info				  : #308cbc;
+
+// Links
+$linkcolor 		    : #2DBCCC;
+$link-color       : $linkcolor;
+$linkcolorhover 	: darken($linkcolor, 10);
+$linkcolorvisited : lighten($linkcolorhover, 20);
+$linkcolorfocus 	: darken($linkcolorvisited, 10);
+
+// Media Queries
+$micro            : "only screen and (max-width: 480px)";
+$small            : "only screen and (min-width: 37.5em)";
+$medium           : "only screen and (min-width: 48em)";
+$large            : "only screen and (min-width: 62em)";
+$x-large          : "only screen and (min-width: 86.375em)";

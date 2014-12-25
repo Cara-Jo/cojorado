@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 77.8 45" enable-background="new 0 0 77.8 45" xml:space="preserve">
+<g id="Path-37-_x2B_-Path-38-_x2B_-Path-48">
+	<g id="Path-37">
+		<g sketch:type="MSShapeGroup">
+			
+				<linearGradient id="path-4_2_" gradientUnits="userSpaceOnUse" x1="-259.4625" y1="406.1563" x2="-259.0259" y2="405.1921" gradientTransform="matrix(41.1563 0 0 -29.3963 10683.2266 11959.4805)">
+				<stop  offset="0" style="stop-color:#31BCCC"/>
+				<stop  offset="0.5805" style="stop-color:#56C1AE"/>
+				<stop  offset="1" style="stop-color:#77C590"/>
+			</linearGradient>
+			<path id="path-4" fill="url(#path-4_2_)" fill-opacity="0.6" d="M15.5,15.6L41.2,45H0L15.5,15.6z"/>
+		</g>
+		<g>
+			<path id="path-4_1_" fill="none" d="M15.5,15.6L41.2,45H0L15.5,15.6z"/>
+		</g>
+	</g>
+	<g id="Path-38">
+		<g sketch:type="MSShapeGroup">
+			
+				<linearGradient id="path-6_2_" gradientUnits="userSpaceOnUse" x1="-259.3086" y1="403.1444" x2="-259.8611" y2="402.1985" gradientTransform="matrix(46.1412 0 0 -23.8382 12041.082 9636.2119)">
+				<stop  offset="0" style="stop-color:#31BCCC"/>
+				<stop  offset="0.5805" style="stop-color:#56C1AE"/>
+				<stop  offset="1" style="stop-color:#77C590"/>
+			</linearGradient>
+			<path id="path-6" fill="url(#path-6_2_)" fill-opacity="0.6" d="M64.3,21.2L31.7,45h46.1L64.3,21.2z"/>
+		</g>
+		<g>
+			<path id="path-6_1_" fill="none" d="M64.3,21.2L31.7,45h46.1L64.3,21.2z"/>
+		</g>
+	</g>
+	<g id="Path-39">
+		<g sketch:type="MSShapeGroup">
+			
+				<linearGradient id="path-8_2_" gradientUnits="userSpaceOnUse" x1="-260.5057" y1="410.6833" x2="-260.5057" y2="409.7061" gradientTransform="matrix(52.838 0 0 -45.0107 13802.2812 18486.1621)">
+				<stop  offset="0" style="stop-color:#31BCCC"/>
+				<stop  offset="0.5805" style="stop-color:#56C1AE"/>
+				<stop  offset="1" style="stop-color:#77C590"/>
+			</linearGradient>
+			<path id="path-8" fill="url(#path-8_2_)" fill-opacity="0.6" d="M64.1,45L37.5,0L11.3,45H64.1z"/>
+		</g>
+		<g>
+			<path id="path-8_1_" fill="none" d="M64.1,45L37.5,0L11.3,45H64.1z"/>
+		</g>
+	</g>
+</g>
+</svg>

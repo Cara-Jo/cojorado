@@ -1,0 +1,51 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page" id="category">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <!-- <div class="overlay-img">
+    <div class="overlay-color">
+    </div>
+  </div> -->
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  <div class="headline-wrap">
+    <h1>{{ page.title }} </h1>
+  </div>
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  
+  <article class="page">
+    <div class="article-wrap post-list">
+      {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+{% include _footer.html %}
+
+{% include _scripts.html %}          
+
+</body>
+</html>

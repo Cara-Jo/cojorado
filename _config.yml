@@ -1,0 +1,71 @@
+# Site wide configuration
+
+title:            Cojorado
+locale:           en_US
+url:              http://localhost:4000
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "my-site"
+  -
+    scope:
+      path: "projects"
+      type: "posts"
+    values:
+      layout: "project" 
+      author: ""
+
+# Site owner
+owner:
+  name: Cara Jo
+  avatar: cojo-photo.jpg
+  bio: "Hi! I'm Cara Jo and I'm a designer, developer, &amp; photographer in Boulder, Colorado."
+  email: 
+  disqus-shortname: cojorado
+  twitter: corrinajo
+  facebook: cara.jo
+  google:
+    plus: #username
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: cara-jo
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: carajo
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: carajo
+  youtube: #username
+  soundcloud: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
