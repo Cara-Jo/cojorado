@@ -11,6 +11,8 @@ date: 2014-12-24T12:57:57-07:00
 ---
 <a href="http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat" target="blank"><img src="http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;t=.gif" style="border: none;" /></a>
 
+![](/images/knitting/norwegian-white1.jpg)
+
 This pattern is available for download on [Ravelry.com](http://www.ravelry.com/patterns/library/basic-norwegian-star-hat). 
 
 ### Materials:
@@ -68,3 +70,5 @@ _Note: Switch to the double pointed needles when you don't have enough stitches 
 Cut yarn, leaving at least 12 inches. Thread onto a needle, and weave the yarn through the remaining stitches. Weave through the stitches twice, if you choose. Tighten the top of the hat and weave in the ends. 
 
 <a href="http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat" target="blank"><img src="http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;t=.gif" style="border: none;" /></a>
+
+![](/images/knitting/norwegian-gray1.png)

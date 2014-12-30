@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-12-30T13:03:26-07:00</updated>
+<updated>2014-12-30T13:15:15-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Cara Jo</name>
@@ -27,6 +27,8 @@
     
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-white1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This pattern is available for download on &lt;a href=&quot;http://www.ravelry.com/patterns/library/basic-norwegian-star-hat&quot;&gt;Ravelry.com&lt;/a&gt;. &lt;/p&gt;
 
@@ -85,6 +87,8 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;Cut yarn, leaving at least 12 inches. Thread onto a needle, and weave the yarn through the remaining stitches. Weave through the stitches twice, if you choose. Tighten the top of the hat and weave in the ends. &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-gray1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
@@ -250,25 +254,6 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Behind the Photo: Denver Panorama]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/photography/behind-the-photo-denver-panorama/" />
-  <id>http://localhost:4000/photography/behind-the-photo-denver-panorama</id>
-  <published>2014-12-02T19:42:39-07:00</published>
-  <updated>2014-12-02T19:42:39-07:00</updated>
-  <author>
-    <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
-  </author>
-  <content type="html">
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/photography/behind-the-photo-denver-panorama/&quot;&gt;Behind the Photo: Denver Panorama&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
