@@ -26,22 +26,19 @@
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
-  <div class="headline-wrap">
-    <h1>{{ page.title }} </h1>
-  </div>
+ 
   </div><!-- /.image-wrap -->
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main"> 
   
-  <article class="page">
-    <div class="article-wrap post-list">
+    <h1>{{ page.title }}</h1>
+    <div class="post-list">
       {{ content }}
     </div><!-- /.article-wrap -->
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
-  </article>
 </div><!-- /#index -->
 {% include _footer.html %}
 

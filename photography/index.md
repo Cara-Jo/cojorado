@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: castle-valley.png
+  feature: photography/castle-valley.jpg
 ---
 
 {% for post in site.categories.photography %} 

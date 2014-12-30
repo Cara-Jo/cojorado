@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: "Kitting"
+title: "Knitting"
 date: 
 modified:
 excerpt:

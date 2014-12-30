@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-12-25T12:52:45-07:00</updated>
+<updated>2014-12-30T13:03:26-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Cara Jo</name>
@@ -103,13 +103,33 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
     <uri>http://localhost:4000</uri>
     
   </author>
-  <content type="html">&lt;h2 id=&quot;april&quot;&gt;April&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Delicate Arch in Moab, Utah. &lt;/p&gt;
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;2014 was a great year for taking photographs. I went on a lot of adventures to Utah and other areas in Colorado I had never been before. My obsession with Moab started in March and is still going strong. Camping in the middle of the mountains also provided great inspiration.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2014-arch-april.png&quot; alt=&quot;Flatirons&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In November I made the big switch to Nikon and purchased the D610 full frame camera. As pathetic as it is, this is the same time that I discovered HDR images. I tread lightly when creating HDR images because that edge glow can get a little crazy. With the help of Keith’s awesome collection of photography supplies I also discovered how amazing it can be to take panorama photos. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15795432897/&quot;&gt;&lt;img src=&quot;/images/photography/2014-arch-daylight.jpg&quot; alt=&quot;Delicate Arch&quot; title=&quot;Delicate Arch&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/13934189692/&quot;&gt;&lt;img src=&quot;/images/photography/2014-arch-april.jpg&quot; alt=&quot;Delicate Arch&quot; title=&quot;Delicate Arch&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/14297900668/&quot;&gt;&lt;img src=&quot;/images/photography/2014-hayden-creek.jpg&quot; alt=&quot;Hayden Creek&quot; title=&quot;Hayden Creek&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15172119186/&quot;&gt;&lt;img src=&quot;/images/photography/2014-maroon-bells.jpg&quot; alt=&quot;Maroon Bells&quot; title=&quot;Maroon Bells&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15172115126/&quot;&gt;&lt;img src=&quot;/images/photography/2014-aspen.jpg&quot; alt=&quot;Aspen&quot; title=&quot;Aspen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15526928434/&quot;&gt;&lt;img src=&quot;/images/photography/2014-castle-valley.jpg&quot; alt=&quot;Castle Valley&quot; title=&quot;Castle Valley&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15955390596/&quot;&gt;&lt;img src=&quot;/images/photography/2014-deadhorse-point.jpg&quot; alt=&quot;Deadhorse Point&quot; title=&quot;Deadhorse Point&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15288682433/&quot;&gt;&lt;img src=&quot;/images/photography/2014-denver-pano.jpg&quot; alt=&quot;Denver&quot; title=&quot;Downtown Denver&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15795430827/&quot;&gt;&lt;img src=&quot;/images/photography/2014-denver-county.jpg&quot; alt=&quot;Denver County Building&quot; title=&quot;Denver County Building&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15504103843/&quot;&gt;&lt;img src=&quot;/images/photography/2014-boulder-flatirons.jpg&quot; alt=&quot;Boulder Flatirons&quot; title=&quot;Boulder Flatirons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
@@ -174,7 +194,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;To find the average temperature for each day I took the high and the low and found the average of those temperatures. I then popped the values into a spreadsheet and went to town. I filled a spreadsheet with all 365 days of 2013’s weather data to set a baseline for future years. I picked 2013 because it has a full year’s worth of data, instead of 2014 which is still in progress. 
 &lt;img src=&quot;/images/knitting/brioche-fullspread.png&quot; alt=&quot;Brioche Spreadsheet&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks to Keith’s spreadsheet wizardry, we wrote a pretty fantastic sheet to do all these calculations for us. First, we find the average high for the year, then the low. Then we take that number and divide it by 9. Why 9? Because it’s the number of colors minus 1… After we’ve divided the averages by 9 we have what we like to call the DEGREES OF SEPARATION. This is how many degrees represent each color. In this example our grain is 9, so each color represents 9 degrees of change. 
+&lt;p&gt;Thanks to Keith’s spreadsheet wizardry, we wrote a pretty fantastic sheet to do all these calculations for us. First, we find the average high for the year, then the low. Then we take that number and divide it by 9. Why 9? Because it’s the number of colors minus 1… After we’ve divided the averages by 9 we have what we like to call the DEGREES OF SEPARATION. This is how many degrees represent each color. In this example our degress of separation is 9, so each color represents 9 degrees of change. 
 &lt;img src=&quot;/images/knitting/brioche-degsep.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Math is hard, that is why Keith does it for me. &lt;/p&gt;
@@ -203,18 +223,18 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;To make this work for 2015, I had to do a few things.&lt;/p&gt;
 
-&lt;p&gt;Set up the base high and low. Remember above when I mentioned that the average high and low were calculated throughout the year? Well that’s cool - except if I’m giving the spreadsheet new data every day. Those numbers are going to change on the daily, and mess up my grain, which will in turn mess up the colors that represent each temperature range.&lt;/p&gt;
+&lt;p&gt;Set up the base high and low. Remember above when I mentioned that the average high and low were calculated throughout the year? Well that’s cool - except if I’m giving the spreadsheet new data every day. Those numbers are going to change on the daily, and mess up my degrees of separation, which will in turn mess up the colors that represent each temperature range.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/brioche-basedata.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To make sure that didn’t happen, I used the data from 2014 to set a base, and then took the ability for the spreadsheet to calculate away. I put in static numbers for the high and the low, which gave me a grain (temperatures per color) of 9. Now when I enter new data every day in 2015, things won’t get recalculated and I won’t need to frog this scarf! &lt;/p&gt;
+&lt;p&gt;To make sure that didn’t happen, I used the data from 2014 to set a base, and then took the ability for the spreadsheet to calculate away. I put in static numbers for the high and the low, which gave me 9 degrees of separation. Now when I enter new data every day in 2015, things won’t get recalculated and I won’t need to frog this scarf! &lt;/p&gt;
 
 &lt;h3 id=&quot;you-can-do-it-too&quot;&gt;You can do it too!&lt;/h3&gt;
 &lt;p&gt;I’ve made the spreadsheet &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1pjsKu63y7HSVjkdF7K62ibfLJBV95QZR4Mbh4eoGtWc/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;publicly available&lt;/a&gt; for this pattern, with all the work already done for you! All you need to do is enter in the highs and the lows for each day and it will calculate everything for you. Questions? Comment below!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Note: anywhere you see a light blue cell is a cell you can edit. Well you can edit any cell you want - but these special blue cells are the ones that are used for calulations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I have provided two tabs for you to get started. Tab one, is the previous year’s data. This will help you set up a baseline temperature to calculate the grain, as well as calculate the yardage you’ll need of each color.&lt;/p&gt;
+&lt;p&gt;I have provided two tabs for you to get started. Tab one, is the previous year’s data. This will help you set up a baseline temperature to calculate the degrees of separation, as well as calculate the yardage you’ll need of each color.&lt;/p&gt;
 
 &lt;p&gt;The colors are conditional statements that you can change to match your color scheme.
 &lt;img src=&quot;/images/knitting/brioche-conditional.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;

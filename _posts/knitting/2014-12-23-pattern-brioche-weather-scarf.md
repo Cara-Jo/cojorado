@@ -53,7 +53,7 @@ Wunderground is my favorite weather source, for many reasons. My new favorite re
 To find the average temperature for each day I took the high and the low and found the average of those temperatures. I then popped the values into a spreadsheet and went to town. I filled a spreadsheet with all 365 days of 2013’s weather data to set a baseline for future years. I picked 2013 because it has a full year’s worth of data, instead of 2014 which is still in progress. 
 ![Brioche Spreadsheet](/images/knitting/brioche-fullspread.png)
 
-Thanks to Keith’s spreadsheet wizardry, we wrote a pretty fantastic sheet to do all these calculations for us. First, we find the average high for the year, then the low. Then we take that number and divide it by 9. Why 9? Because it's the number of colors minus 1... After we’ve divided the averages by 9 we have what we like to call the DEGREES OF SEPARATION. This is how many degrees represent each color. In this example our grain is 9, so each color represents 9 degrees of change. 
+Thanks to Keith’s spreadsheet wizardry, we wrote a pretty fantastic sheet to do all these calculations for us. First, we find the average high for the year, then the low. Then we take that number and divide it by 9. Why 9? Because it's the number of colors minus 1... After we’ve divided the averages by 9 we have what we like to call the DEGREES OF SEPARATION. This is how many degrees represent each color. In this example our degress of separation is 9, so each color represents 9 degrees of change. 
 ![](/images/knitting/brioche-degsep.png)
 
 Math is hard, that is why Keith does it for me. 
@@ -82,18 +82,18 @@ Repeat rows 1 & 2 for each day, this will create what appears as one row. Since 
 
 To make this work for 2015, I had to do a few things.
 
-Set up the base high and low. Remember above when I mentioned that the average high and low were calculated throughout the year? Well that’s cool - except if I’m giving the spreadsheet new data every day. Those numbers are going to change on the daily, and mess up my grain, which will in turn mess up the colors that represent each temperature range.
+Set up the base high and low. Remember above when I mentioned that the average high and low were calculated throughout the year? Well that’s cool - except if I’m giving the spreadsheet new data every day. Those numbers are going to change on the daily, and mess up my degrees of separation, which will in turn mess up the colors that represent each temperature range.
 
 ![](/images/knitting/brioche-basedata.png)
 
-To make sure that didn’t happen, I used the data from 2014 to set a base, and then took the ability for the spreadsheet to calculate away. I put in static numbers for the high and the low, which gave me a grain (temperatures per color) of 9. Now when I enter new data every day in 2015, things won’t get recalculated and I won’t need to frog this scarf! 
+To make sure that didn’t happen, I used the data from 2014 to set a base, and then took the ability for the spreadsheet to calculate away. I put in static numbers for the high and the low, which gave me 9 degrees of separation. Now when I enter new data every day in 2015, things won’t get recalculated and I won’t need to frog this scarf! 
 
 ### You can do it too! 
 I’ve made the spreadsheet [publicly available](https://docs.google.com/spreadsheets/d/1pjsKu63y7HSVjkdF7K62ibfLJBV95QZR4Mbh4eoGtWc/edit?usp=sharing){:target="_blank"} for this pattern, with all the work already done for you! All you need to do is enter in the highs and the lows for each day and it will calculate everything for you. Questions? Comment below!
 
 _Note: anywhere you see a light blue cell is a cell you can edit. Well you can edit any cell you want - but these special blue cells are the ones that are used for calulations_
 
-I have provided two tabs for you to get started. Tab one, is the previous year’s data. This will help you set up a baseline temperature to calculate the grain, as well as calculate the yardage you’ll need of each color.
+I have provided two tabs for you to get started. Tab one, is the previous year’s data. This will help you set up a baseline temperature to calculate the degrees of separation, as well as calculate the yardage you’ll need of each color.
 
 The colors are conditional statements that you can change to match your color scheme.
 ![](/images/knitting/brioche-conditional.png)

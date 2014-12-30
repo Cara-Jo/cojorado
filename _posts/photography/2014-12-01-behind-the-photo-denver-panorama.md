@@ -6,7 +6,7 @@ categories: photography
 excerpt:
 tags: []
 image: 
-  feature: denver-panorama.png
+  feature: photography/denver-panorama.jpg
 date: 2014-12-02T19:42:39-07:00
 ---
 

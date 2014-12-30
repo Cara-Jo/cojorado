@@ -5,7 +5,7 @@ tags: []
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: cojo-about-grass.png
+  feature: cojo-about-grass.jpg
 ---
 
 Cara Jo is the Lead UI/UX Designer at Simple Energy, a Boulder, Colorado-based company whose mission is to help people save energy. She got started with programming in the mid-90s by working with her father, a computer repairman, to build her first computer out of spare parts. Soon after, she built her first website to show off her Pokemon drawings after learning HTML & CSS. After building sites for her friends and family throughout Junior & High school she went to college at Northern Michigan University. While at NMU she dabbled in a few majors and received a Bachelor of Fine Arts with an emphasis on photography & web design.
