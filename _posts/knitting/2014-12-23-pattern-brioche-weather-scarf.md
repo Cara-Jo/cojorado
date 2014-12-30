@@ -103,6 +103,9 @@ To get a proper yardage calculation enter in the yardage per skein. If you are g
 
 I’ve also provided you with some links to sample data from Wunderground. This is currently set to my location here in Boulder, CO. Feel free to update those to match your zipcode! 
 
+Don't forget to copy this to your Google Drive by going to *File > Make a Copy*. This way you can edit it and you won't lose any changes.
+![](/images/knitting/brioche-makecopy.png)
+
 Fun fact, my scarf will contain 24,820 stitches and enough yarn to span over 7 football fields! 
 
 Cheers to 2015! 
