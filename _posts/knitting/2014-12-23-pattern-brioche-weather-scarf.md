@@ -39,8 +39,10 @@ The colors I went with, in order from ‘coldest’ to ‘hottest’:
 6. Chartreuse(ish)
 7. Yellow(ish)
 8. Coral(ish)
-9. Pumpkin(ish)
+9. Orange(ish) *Updated from Pumpkin(ish)*
 10. Red(ish)
+
+![Swatch](/images/knitting/brioche-swatch.jpg "Color Swatch")
 
 I went with 10 colors because I had originally wanted to go from 0-100 degrees with each color representing 10 degrees. I changed how many degrees each color represented, but still stuck with the 10 colors. 
 
@@ -66,17 +68,17 @@ In the past I’ve struggled with making scarves because I find them boring and 
 
 #### Here’s the super easy pattern:
 
+**UPDATE 1/1/2015: I have updated the edging to be more consistent and not bunch up on the sides.**
+
 CO 34 stitches with size 7 needles
 
 **wyf**: With yarn held in front as if to purl
 
-**Set up Row:** P1, K1 \*(wyf) slip 1, YO, K1; repeat from \* to last two stitches, K1, P1
+**Set up Row:** K2, \*(wyf) slip 1, YO, K1; repeat from \* to last two stitches, K1, S1
 
-**Row 1:** K1, P1 \*(wyf) slip 1, K2TOG; repeat from \* to last two stitches P1, K1
+**Pattern Row :** K2 \*(wyf) slip 1, K2TOG; repeat from \* to last two stitches K1, S1
 
-**Row 2:** P1, K1 \*(wyf) slip 1, K2TOG; repeat from \* to last two stitches K1, P1
-
-Repeat rows 1 & 2 for each day, this will create what appears as one row. Since the Brioche stitch is a special fluffy flower, two rows equal what appears to be one wide row. By doing two rows each day, all the yarn ends will stay on the same side of the scarf and you won’t run into that problem of having the yarn you need on the other side of the row. The two stitches on either side of the pattern are to create a clean edge up the scarf, optional if you're not into that. 
+Repeat Pattern Row twice for each day, this will create what appears as one row. Since the Brioche stitch is a special fluffy flower, two rows equal what appears to be one wide row. By doing two rows each day, all the yarn ends will stay on the same side of the scarf and you won’t run into that problem of having the yarn you need on the other side of the row. The two stitches on either side of the pattern are to create a clean edge up the scarf, optional if you're not into that. 
 
 ### Repeat
 
