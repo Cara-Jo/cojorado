@@ -688,8 +688,10 @@ $button-size: 1.5rem;
 	h6,
 	span { 
 		@include font-rem(14);
+		text-align: center;
 	}
 	footer {
+
 		@include grid(12,10);
 		@include prefix(12,1);
 		@include suffix(12,1);
