@@ -90,7 +90,9 @@ Food, Drinks, Supplies, & swag all help make the learning experience better.
 ##Other Ideas?
 We always open to ideas for classes, programming and overall improvements for this chapter. Please feel free to speak to one of our chapter leaders, or email us at boulder@girldevelopit.com.
 
-Fill out the volunteer interest survey at [gdiboulder.com/support](http://gdiboulder.com/support)
+Fill out the volunteer interest survey at [gdiboulder.com/support](http://gdiboulder.com/support) to get started with Girl Develop It Boulder. 
+
+
 
 
 
