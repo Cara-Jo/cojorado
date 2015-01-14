@@ -92,6 +92,8 @@ We always open to ideas for classes, programming and overall improvements for th
 
 Fill out the volunteer interest survey at [gdiboulder.com/support](http://gdiboulder.com/support) to get started with Girl Develop It Boulder. 
 
+*If donating money is more your thing, you can [donate to a chapter](http://girldevelopit.com/donate) or the global organization.* 
+
 
 
 
