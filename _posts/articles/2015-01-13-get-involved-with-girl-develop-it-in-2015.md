@@ -8,6 +8,7 @@ tags: []
 image:
   feature: articles/leadershipsummit.png
 date: 2015-01-13T14:54:01-07:00
+comments: true
 ---
 
 Girl Develop It is now in over [45 cities across the country](http://girldevelopit.com/chapters). It's pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.

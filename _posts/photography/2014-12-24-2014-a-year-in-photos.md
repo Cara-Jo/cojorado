@@ -8,6 +8,7 @@ tags: []
 image:
   feature: photography/2014-photo-banner.jpg
 date: 2014-12-24T12:10:55-07:00
+comments: true
 ---
 > 2014 was a great year for taking photographs. I went on a lot of adventures to Utah and other areas in Colorado I had never been before. My obsession with Moab started in March and is still going strong. Camping in the middle of the mountains also provided great inspiration.
 
