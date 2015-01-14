@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Cojorado</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-01-07T09:35:17-07:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://cojorado.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://cojorado.com" />
+<updated>2015-01-13T23:54:36-07:00</updated>
+<id>http://cojorado.com/</id>
 <author>
   <name>Cara Jo</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://cojorado.com/</uri>
   
 </author>
 
@@ -16,14 +16,114 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Get Involved With Girl Develop It in 2015]]></title>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/" />
+  <id>http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015</id>
+  <published>2015-01-13T14:54:01-07:00</published>
+  <updated>2015-01-13T14:54:01-07:00</updated>
+  <author>
+    <name>Cara Jo</name>
+    <uri>http://cojorado.com</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;Girl Develop It is now in over &lt;a href=&quot;http://girldevelopit.com/chapters&quot;&gt;45 cities across the country&lt;/a&gt;. It’s pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/articles/chapter-locations.png&quot; alt=&quot;Chapter Locations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Why is Girl Develop It so important? Women make up half of the U.S. workforce, but hold just 25% of the jobs in technical or computing fields. I personally don’t like those numbers, and I’m not alone.&lt;/p&gt;
+
+&lt;p&gt;That’s why I started a local chapter here in Boulder, Colorado. I wanted to help diversify this heavily white male scene. Seriously it’s like every developer here is a white male, it’s actually impressive the lack of diversity. &lt;/p&gt;
+
+&lt;p&gt;When I landed in Boulder in early 2013 the first thing I did was explore the idea of starting a Girl Develop It out here. I had helped start one in Detroit and saw it’s success there and wanted to spread that across the country.&lt;/p&gt;
+
+&lt;h2 id=&quot;local-success&quot;&gt;Local Success&lt;/h2&gt;
+&lt;p&gt;In the one year and a half that Girl Develop It Boulder has been around we’ve achieved a lot. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We have grown to 880 members&lt;/strong&gt;
+&lt;img src=&quot;/images/articles/boulder-party.jpg&quot; alt=&quot;Boulder 1 Year Birthday&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Offered over 25 different &lt;em&gt;types&lt;/em&gt; of classes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/articles/boulder-python.jpg&quot; alt=&quot;Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We’ve built up a community through our free social events&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/articles/code-cocktails.jpg&quot; alt=&quot;Code &amp;amp; Cocktails&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Boulder wasn’t enough - so we expanded to Denver and Fort Collins too&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/articles/denver-class.jpeg&quot; alt=&quot;Denver&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future&quot;&gt;The future&lt;/h2&gt;
+&lt;p&gt;As the group grows, so do the needs of its members. We want to make sure that everyone has access to the tools they need to feel empowered. &lt;/p&gt;
+
+&lt;h4 id=&quot;new-classes&quot;&gt;New classes&lt;/h4&gt;
+&lt;p&gt;Our classes are designed to break down what can seem like a daunting topic - to it’s fundamentals. Classes are typically 8 hours and are taught over a weekend. &lt;/p&gt;
+
+&lt;p&gt;To start we want to offer some new classes like Python, Ruby, Android, iOs, Java, UX, and more. &lt;/p&gt;
+
+&lt;h4 id=&quot;new-workshops&quot;&gt;New Workshops&lt;/h4&gt;
+&lt;p&gt;Workshops are a great opportunity for our members to get their hands dirty with a new topic without committing to a whole class. These topics are usually taught in 2-3 hours on a weekday. We want to offer a huge (seriously huge) range of new workshops this year. &lt;/p&gt;
+
+&lt;p&gt;Just to start we’re going to offer workshops like Sketch 3, Photoshop, Agile/Scrum, Behavioral Science, WordPress, FTP &amp;amp; GitHub Pages, Bootstrap, LESS, SASS, Sublime, Command Line, Docker and more.&lt;/p&gt;
+
+&lt;h4 id=&quot;women-in-tech-panel-series&quot;&gt;Women in Tech panel series&lt;/h4&gt;
+&lt;p&gt;We’re putting together a 6 week Women in Tech panel series for the spring. We will be bringing together some of the most amazing Women in the Boulder/Denver tech scene to inspire our members.&lt;/p&gt;
+
+&lt;h4 id=&quot;more-community-events&quot;&gt;More community events&lt;/h4&gt;
+&lt;p&gt;Happy Hour, Code &amp;amp; Coffee, Hack nights, and other social events really help our members connect with one another and create lasting relationships. &lt;/p&gt;
+
+&lt;h4 id=&quot;teacher-training&quot;&gt;Teacher Training&lt;/h4&gt;
+&lt;p&gt;Coming this year! GDI will offer teacher training so you get the skills you need to be a successful instructor.&lt;/p&gt;
+
+&lt;h2 id=&quot;we-need-you&quot;&gt;We Need You&lt;/h2&gt;
+&lt;p&gt;You don’t have to be a woman to help. You don’t have to be a rockstar developer. You don’t have to jump right in. &lt;/p&gt;
+
+&lt;h2 id=&quot;there-are-many-ways-to-help&quot;&gt;There are many ways to help&lt;/h2&gt;
+
+&lt;h4 id=&quot;instruct&quot;&gt;Instruct&lt;/h4&gt;
+&lt;p&gt;Co-Teach or run solo, for a class and/or workshop!&lt;/p&gt;
+
+&lt;h4 id=&quot;teacher-assist&quot;&gt;Teacher Assist&lt;/h4&gt;
+&lt;p&gt;Answer student questions and provide added insight.&lt;/p&gt;
+
+&lt;h4 id=&quot;develop-curriculum&quot;&gt;Develop Curriculum&lt;/h4&gt;
+&lt;p&gt;If you have something you want to teach, there’s probably people who want to learn it.
+Review/enhance existing curriculum or create new.&lt;/p&gt;
+
+&lt;h4 id=&quot;organizational-needs&quot;&gt;Organizational Needs&lt;/h4&gt;
+&lt;p&gt;Help out with marketing, social media, class scheduling, work with sponsors, answer student questions, &amp;amp; more&lt;/p&gt;
+
+&lt;h4 id=&quot;provide-space&quot;&gt;Provide Space&lt;/h4&gt;
+&lt;p&gt;Show off your awesome workspace by hosting a workshop, happy hour, or class.&lt;/p&gt;
+
+&lt;h4 id=&quot;donate-time&quot;&gt;Donate Time&lt;/h4&gt;
+&lt;p&gt;Have a crew of developers? Have your team TA or even teach a class for GDI.&lt;/p&gt;
+
+&lt;h4 id=&quot;donate-resources&quot;&gt;Donate Resources&lt;/h4&gt;
+&lt;p&gt;Food, Drinks, Supplies, &amp;amp; swag all help make the learning experience better.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-ideas&quot;&gt;Other Ideas?&lt;/h2&gt;
+&lt;p&gt;We always open to ideas for classes, programming and overall improvements for this chapter. Please feel free to speak to one of our chapter leaders, or email us at boulder@girldevelopit.com.&lt;/p&gt;
+
+&lt;p&gt;Fill out the volunteer interest survey at &lt;a href=&quot;http://gdiboulder.com/support&quot;&gt;gdiboulder.com/support&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Pattern: Norwegian Star Hat]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-norwegian-star-hat/" />
-  <id>http://localhost:4000/knitting/pattern-norwegian-star-hat</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-norwegian-star-hat/" />
+  <id>http://cojorado.com/knitting/pattern-norwegian-star-hat</id>
   <published>2014-12-24T12:57:57-07:00</published>
   <updated>2014-12-24T12:57:57-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cojorado.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -90,7 +190,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-gray1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -98,13 +198,13 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2014 a Year in Photos]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/photography/2014-a-year-in-photos/" />
-  <id>http://localhost:4000/photography/2014-a-year-in-photos</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/photography/2014-a-year-in-photos/" />
+  <id>http://cojorado.com/photography/2014-a-year-in-photos</id>
   <published>2014-12-24T12:10:55-07:00</published>
   <updated>2014-12-24T12:10:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cojorado.com</uri>
     
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -135,7 +235,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15504103843/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/photography/2014-boulder-flatirons.jpg&quot; alt=&quot;Boulder Flatirons&quot; title=&quot;Boulder Flatirons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -143,13 +243,13 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Brioche Weather Scarf]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-brioche-weather-scarf/" />
-  <id>http://localhost:4000/knitting/pattern-brioche-weather-scarf</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-brioche-weather-scarf/" />
+  <id>http://cojorado.com/knitting/pattern-brioche-weather-scarf</id>
   <published>2014-12-23T16:36:10-07:00</published>
   <updated>2014-12-23T16:36:10-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cojorado.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;Recently, I was in New York attending the 2014 Girl Develop It Leadership Summit. One of the chapter leaders that I was sitting next to was knitting a small project and we started talking about all the other awesome projects she was working on. She had briefly mentioned that she was also working on a ‘weather scarf’ and initially I thought “what else would you use a scarf in, besides weather?”. She went on to explain that each row was it’s own color that was based on the average temperature for that day. &lt;/p&gt;
@@ -258,7 +358,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;Cheers to 2015! &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

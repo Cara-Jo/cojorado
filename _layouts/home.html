@@ -32,28 +32,13 @@
 
 <div id="main" role="main"> 
   <div id="index" class="post-list">
-    <!-- {% for post in site.posts limit:5 %}    
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}-->
-    <!-- <div class="category-post-list">
+    
+    <div class="category-post-list">
       <h1 class="green">Articles</h1>
       {% for post in site.categories.articles limit:5 %} 
         {% include _home-post.html %}
       {% endfor %}
-    </div> -->
-    <!-- <div class="category-post-list">
-      <h1 class="blue">Design</h1>       
-      {% for post in site.categories.design limit:5 %} 
-        {% include _home-post.html %}
-      {% endfor %}
-    </div> -->
+    </div>
     <div class="category-post-list">
       <h1 class="pink">Photography</h1>
       {% for post in site.categories.photography limit:5 %} 
