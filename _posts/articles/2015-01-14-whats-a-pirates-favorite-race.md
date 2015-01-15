@@ -27,29 +27,33 @@ For the 2014 Colorado race, I gathered a handful of my crazy runner co-workers, 
 
 Before you even get to run, there’s somethings that need to be taken care of as a team. First - the team name. We had to come up with the best team name that represented the people on it. After many submissions to one of my many Google Forms, we settled on “Rolling Blackouts”. We landed on this because it’s a witty play on energy usage, and we have a custom beer in it’s namesake. 
 
+Not to mention there's the notebooks, gear lists, food lists, van logisitics, and money.  
+
 ![Rolling Blackouts Van](/images/articles/ragnar-van.jpg)
 
 Second - getting everyone in one spot at the same time for the pre-race dinner & van decorating. One of our team members has a cabin in Silverthorn, which is not far from the start. He let the team take it over for the night and we all made dinner together before giggling ourselves to sleep at something like 9pm. 
 
-Alarms set for 4:45am, so that Van 1 can get on the road to the start. Someone on our team’s alarm tone was the theme song from the Lego Movie, so at 4:45am we all awoke to ***"EVERYTHING IS AWESOME - EVERYTHING IS COOL WHEN YOU’RE PART OF A TEAM"***. Not going to lie, it was a pretty hilarious start to the day.
+Alarms are set for 4:45am, so that Van 1 could get on the road to the start. Someone on our team’s has their alarm tone set to the theme song from the Lego Movie, so at 4:45am we all awoke to ***"EVERYTHING IS AWESOME - EVERYTHING IS COOL WHEN YOU’RE PART OF A TEAM"***. Not going to lie, it was a pretty hilarious start to the day.
 
 Van 1 gets rolling bright and early and heads to the start. Van 2 however...goes back to sleep. We’re not scheduled to start for another 7 hours, and plan to take full advantage of sleeping in a bed. It did give us time to head to the grocery store to grab some last minute snacks that Van 1 needed, and to get fixings for breakfast. 
 
 We meet Van 1 at exchange 6 and start running legs 7-12. We won’t see Van 2 again for another 8 or so hours. They take advantage of the free time and go out to eat and sleep. 
 
-This piggybacking continues for the duration of the event until we finally all meetup at the finish line to cheer on runner 12 as she completes leg 36 to the finish. 
+This piggybacking continues for the duration of the event until we finally all meetup at the finish line to cheer on runner 12 as she completes leg 36 into the finish. 
 
 ### Crazy Hard
 A lot of people think that **running** Ragnar is hard. I think it’s actually the parts where you’re **not** running that’s harder. 
 
 There are times you want to straight up kick people out of your van, or just want everyone to shut up so you can get 30 seconds of sleep. 
 
-You’re sleeping on the floor of an elementary school gym thinking to yourself “god it smells like shit in here, why am I doing this?”. Or the person next to you won’t stop snoring/farting/talking. 
+You’re sleeping on the floor of an elementary school gym thinking to yourself “Gosh it smells like shit in here, why am I doing this?”. Or the person next to you won’t stop snoring/farting/talking. 
 ![Sleeping on the floor with style](/images/articles/ragnar-sleepingfloor.jpg)
 
 The things you put into your stomach are ridiculous. I ate more random crap during the Relay then I do on a drunken Christmas treat binge. We had one member of our team bring home-made fried rice, and that was about the most sane thing I ate the whole trip. I mean I was sitting in the front of the van giving directions elbow deep into a bag of Cheetos. I didn’t even recognize myself. 
 
 ![Fried Rice](/images/articles/ragnar-friedrice.jpg)
+
+Then there's the running. The race is actually quite hard, Ragnar even says that its one of their hardest races in the series. The Colorado relay is the highest in terms of elevation, and running that high in the sky is hard. Running and then stopping and then running again is harder than people think. Your leg muscles start to lock up after your 8 mile run when you're crammed into a car chasing down your runner. 
 
 ### Crazy exhausting & emotional
 
@@ -57,7 +61,7 @@ You’re sleeping on the floor with your slowly deflating mattress pad because y
 
 It’s the middle of the night - and we’ve been running on empty for about 20 hours, we can’t find our runner that we need to meet. Of course we’re in the middle of the mountains and have nothing that resembles cell service, so we’re just wandering around trying to find our runner, only to find out that she’s already ready and waiting at the van. 
 
-The last leg of every runner’s set is always the hardest emotionally and maybe physically. There’s a moment when you’re running that last leg that you think “holy shit this is almost over…”. These emotions come over you that you don’t expect. Things like “Wow - I just did this great thing with these amazing people.” or “Where the hell is the ‘one mile to go’ sign? I’ve been running for ages.” That’s when you look at your watch and you’re only .5 miles in to a 10 mile leg. 
+The last leg of every runner’s set is always the hardest emotionally and maybe physically. There’s a moment when you’re running that last leg that you think “holy shit this is almost over…”, which is when these emotions come over you that you don’t expect. Things like “Wow - I just did this great thing with these amazing people.” or “Where the hell is the ‘one mile to go’ sign? I’ve been running for ages.” That’s when you look at your watch and you’re only .5 miles in to a 10 mile leg. 
 
 ![](/images/articles/ragnar-cojo-sweat.jpg)
 
