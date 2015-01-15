@@ -63,8 +63,8 @@ body {
 }
 .top-navigation {
 	@include grid(12,4);
-	@include prefix(12,2);
-	@include suffix(12,1);
+	@include prefix(12,.25);
+	@include suffix(12,.25);
 	margin-bottom: 1em;
 	float: right;
 	display: block;
@@ -81,7 +81,7 @@ body {
 		margin: 0 auto;
 	}
 	@media #{$x-large} {
-		@include grid(12,4);
+		@include grid(12,5);
 		float: right;
 	}
 	ul {
@@ -295,6 +295,10 @@ $button-size: 1.5rem;
 			}
 		}
 
+	}
+	&.hire {
+		
+		.gallery-item {margin-bottom: 100px;}
 	}
 }
 #index {
