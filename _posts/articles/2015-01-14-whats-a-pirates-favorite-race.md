@@ -65,7 +65,7 @@ The last leg of every runner’s set is always the hardest emotionally and maybe
 
 ![](/images/articles/ragnar-cojo-sweat.jpg)
 
-It’s literally blood, sweat, and tears out there on that last leg, maybe even some vomit. The runner before my on my last leg said “sorry I was so slow - I had to puke into a bush”. Who apologizes for that!? Half way into my last leg of 10 miles uphill, I just sat down in the middle of the course and started crying. I was dehydrated, hungry, tired, and so very hot. August sun in the middle of the day in Colorado does not make for an ‘easy run’. 
+It’s literally blood, sweat, and tears out there on that last leg, maybe even some vomit. The runner before me on my last leg said “sorry I was so slow - I had to puke into a bush”. Who apologizes for that!? Half way into my last leg of 10 miles uphill, I just sat down in the middle of the course and started crying. I was dehydrated, hungry, tired, and so very hot. August sun in the middle of the day in Colorado does not make for an ‘easy run’. 
 
 My teammates were there for me though. They helped me get up, hydrated, fed and told me to “stop crying about it and just run”. Then, a mile before the finish of my last leg - I see a teammate running towards me in the rain. Oh yeah, it started pouring ice cold rain right before I finished, I’m still unsure if it was a blessing or not.
 

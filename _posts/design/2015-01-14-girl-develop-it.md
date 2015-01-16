@@ -6,7 +6,7 @@ categories: design
 excerpt:
 tags: []
 image:
-  feature: design/design-12.jpg
+  feature: design/design-12.png
 date: 2015-01-13T19:48:56-07:00
 ---
 
@@ -18,16 +18,16 @@ date: 2015-01-13T19:48:56-07:00
 
 > These are customized down to the chapter level.  
 
-![image name](/images/design/design-15.jpg)
+![image name](/images/design/design-15.png)
 </div>
 
 
 <div class='gallery-item' markdown='1'>
 ## Holiday Cards
 
-> As a thank you to our sponsors and volunteers, chapters send out hand written Holiday Cards.  
+> As a thank you to our sponsors and volunteers, chapters send out hand written Holiday Cards every year.
 
-![image name](/images/design/design-13.jpg)
+![image name](/images/design/design-13.png)
 </div>
 
 <div class='gallery-item' markdown='1'>
@@ -35,7 +35,7 @@ date: 2015-01-13T19:48:56-07:00
 
 > Chapters have launch parties and other large events that need more legit looking invitaions than MeetUp can provide.   
 
-![image name](/images/design/design-14.jpg)
+![image name](/images/design/design-14.png)
 </div>
 
 <div class='gallery-item' markdown='1'>
@@ -43,7 +43,7 @@ date: 2015-01-13T19:48:56-07:00
 
 > Another resource for chapters is having an accurate representation of the impact Girl Develop It is having across the country. This is used in posters, advertising, presentations and on the website.   
 
-![image name](/images/design/design-17.jpg)
+![image name](/images/design/design-17.png)
 </div>
 
 <div class='gallery-item' markdown='1'>
@@ -51,5 +51,5 @@ date: 2015-01-13T19:48:56-07:00
 
 > Often times chapters don't have the resources to create their own stickers for their chapters or events. Templates are provided for them to allow them to do this.    
 
-![image name](/images/design/design-16.jpg)
+![image name](/images/design/design-16.png)
 </div>
