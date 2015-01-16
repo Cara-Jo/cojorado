@@ -12,9 +12,9 @@ date: 2015-01-13T20:30:11-07:00
 
 > As the Lead Designer at Simple Energy, I've had a chance to design some really awesome things, for a great company. I've been there from what feels like the beginning, starting with the company when it was only 12 people strong. 
 
-> I've watched it grow into a large company of 50+ in less than two years, and with that bringing in some great talent and ideas. 
+> I've watched it grow into a large company of 50+ in less than two years, bringing in some great talent and ideas. 
 
-> Design isn't all I do at Simple Energy. I am on the engineering team, so I'm immersed deep within the produciton of our amazing products. But, that doesn't mean I just sit in a cave all day and write code. I get to help design the office, the custom Simple Energy beer labels, the team member swag, annual holiday cards, and other goodies that make working there just more fun.
+> Design isn't all I do at Simple Energy. I am on the engineering team, so I'm immersed deep within the produciton of our amazing products. To get a great balance of design + code, I have the oportunity to step outside the user interface box. I get to help design the office space, the custom Simple Energy beer labels, the team member swag, annual holiday cards, and other goodies that make working there more fun.
 
 > Below are a few of my favorite projects I've worked at while at Simple Energy.
 
