@@ -39,14 +39,9 @@
         {% include _home-post.html %}
       {% endfor %}
     </div>
-     <div class="category-post-list">
-      <h1 class="pink">Design</h1>
-      {% for post in site.categories.design limit:5 %} 
-        {% include _home-post.html %}
-      {% endfor %}
-    </div>
+     
     <div class="category-post-list">
-      <h1 class="blue">Photography</h1>
+      <h1 class="pink">Photography</h1>
       {% for post in site.categories.photography limit:5 %} 
         {% include _home-post.html %}
       {% endfor %}

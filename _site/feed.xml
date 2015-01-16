@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Cojorado</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://cojorado.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://cojorado.com" />
-<updated>2015-01-15T16:17:32-07:00</updated>
-<id>http://cojorado.com/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-01-15T21:21:03-07:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Cara Jo</name>
-  <uri>http://cojorado.com/</uri>
+  <uri>http://localhost:4000/</uri>
   
 </author>
 
@@ -16,123 +16,14 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Girl Develop It]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/design/girl-develop-it/" />
-  <id>http://cojorado.com/design/girl-develop-it</id>
-  <published>2015-01-14T20:48:56-07:00</published>
-  <updated>2015-01-14T20:48:56-07:00</updated>
-  <author>
-    <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
-    
-  </author>
-  <content type="html">
-
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/girl-develop-it/&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Simple Energy]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/design/simple-energy/" />
-  <id>http://cojorado.com/design/simple-energy</id>
-  <published>2015-01-14T20:30:11-07:00</published>
-  <updated>2015-01-14T20:30:11-07:00</updated>
-  <author>
-    <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
-    
-  </author>
-  <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;logo-design&quot;&gt;Logo Design&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Our old logo with Museo Sans and gradients everywhere was looking a little dates. I collaborated with a team of brand specialists to work on re-branding the company.&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-04.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;business-cards&quot;&gt;Business Cards&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Our brand is simple, clean, fun, and flat. When designing these business cards I wanted to bring all those elements into a 3.5” x 2” space. The leadership and sales teams all received horizontal cards, while the engineers and designers received vertical cards. But of course everyone had an option of what format they wanted! &lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-03.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;corporate-website&quot;&gt;Corporate Website&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;With our re-brand came a shiny new site to showcase our Engagement Platform and other products. In addition to showcasing our beautiful products, this site also reflects the great &lt;a href=&quot;http://simpleenergy.com/company/&quot;&gt;culture at Simple Energy&lt;/a&gt;. &lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-08.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;img src=&quot;/images/design/design-09.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;holiday-cards&quot;&gt;2014 Holiday Cards&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;To keep up with Simple Energy’s mission of motivating people to save energy, we decided to be a little witty with this year’s holiday cards.&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-02.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;beer-labels&quot;&gt;Beer Labels&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Simple Energy has a brewmaster on staff, he uses his skills to create custom beer for the company. The team votes on names for each new batch, then it’s labeled and bottled.&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-01.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;core-values-icons&quot;&gt;Core Values Icons&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Simple Energy has a brewmaster on staff, and he likes to make beer for the company. That means all of his beers have custom labels!&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-05.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;gallery-item&quot;&gt;
-  &lt;h2 id=&quot;ragnar-relay-apparel&quot;&gt;Ragnar Relay Apparel&lt;/h2&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;Simple Energy has a brewmaster on staff, and he likes to make beer for the company. That means all of his beers have custom labels!&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/images/design/design-06.png&quot; alt=&quot;image name&quot; /&gt;&lt;img src=&quot;/images/design/design-07.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/simple-energy/&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
   <title type="html"><![CDATA[What's a Pirate's Favorite Race? Ragnaaaar!]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/whats-a-pirates-favorite-race/" />
-  <id>http://cojorado.com/articles/whats-a-pirates-favorite-race</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/whats-a-pirates-favorite-race/" />
+  <id>http://localhost:4000/articles/whats-a-pirates-favorite-race</id>
   <published>2015-01-14T13:45:55-07:00</published>
   <updated>2015-01-14T13:45:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">&lt;h4 id=&quot;what-has-12-arms-12-legs-and-12-eyes&quot;&gt;What has 12 arms, 12 legs and 12 eyes?&lt;/h4&gt;
@@ -152,29 +43,33 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;p&gt;Before you even get to run, there’s somethings that need to be taken care of as a team. First - the team name. We had to come up with the best team name that represented the people on it. After many submissions to one of my many Google Forms, we settled on “Rolling Blackouts”. We landed on this because it’s a witty play on energy usage, and we have a custom beer in it’s namesake. &lt;/p&gt;
 
+&lt;p&gt;Not to mention there’s the notebooks, gear lists, food lists, van logisitics, and money.  &lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-van.jpg&quot; alt=&quot;Rolling Blackouts Van&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Second - getting everyone in one spot at the same time for the pre-race dinner &amp;amp; van decorating. One of our team members has a cabin in Silverthorn, which is not far from the start. He let the team take it over for the night and we all made dinner together before giggling ourselves to sleep at something like 9pm. &lt;/p&gt;
 
-&lt;p&gt;Alarms set for 4:45am, so that Van 1 can get on the road to the start. Someone on our team’s alarm tone was the theme song from the Lego Movie, so at 4:45am we all awoke to &lt;strong&gt;&lt;em&gt;“EVERYTHING IS AWESOME - EVERYTHING IS COOL WHEN YOU’RE PART OF A TEAM”&lt;/em&gt;&lt;/strong&gt;. Not going to lie, it was a pretty hilarious start to the day.&lt;/p&gt;
+&lt;p&gt;Alarms are set for 4:45am, so that Van 1 could get on the road to the start. Someone on our team’s has their alarm tone set to the theme song from the Lego Movie, so at 4:45am we all awoke to &lt;strong&gt;&lt;em&gt;“EVERYTHING IS AWESOME - EVERYTHING IS COOL WHEN YOU’RE PART OF A TEAM”&lt;/em&gt;&lt;/strong&gt;. Not going to lie, it was a pretty hilarious start to the day.&lt;/p&gt;
 
 &lt;p&gt;Van 1 gets rolling bright and early and heads to the start. Van 2 however…goes back to sleep. We’re not scheduled to start for another 7 hours, and plan to take full advantage of sleeping in a bed. It did give us time to head to the grocery store to grab some last minute snacks that Van 1 needed, and to get fixings for breakfast. &lt;/p&gt;
 
 &lt;p&gt;We meet Van 1 at exchange 6 and start running legs 7-12. We won’t see Van 2 again for another 8 or so hours. They take advantage of the free time and go out to eat and sleep. &lt;/p&gt;
 
-&lt;p&gt;This piggybacking continues for the duration of the event until we finally all meetup at the finish line to cheer on runner 12 as she completes leg 36 to the finish. &lt;/p&gt;
+&lt;p&gt;This piggybacking continues for the duration of the event until we finally all meetup at the finish line to cheer on runner 12 as she completes leg 36 into the finish. &lt;/p&gt;
 
 &lt;h3 id=&quot;crazy-hard&quot;&gt;Crazy Hard&lt;/h3&gt;
 &lt;p&gt;A lot of people think that &lt;strong&gt;running&lt;/strong&gt; Ragnar is hard. I think it’s actually the parts where you’re &lt;strong&gt;not&lt;/strong&gt; running that’s harder. &lt;/p&gt;
 
 &lt;p&gt;There are times you want to straight up kick people out of your van, or just want everyone to shut up so you can get 30 seconds of sleep. &lt;/p&gt;
 
-&lt;p&gt;You’re sleeping on the floor of an elementary school gym thinking to yourself “god it smells like shit in here, why am I doing this?”. Or the person next to you won’t stop snoring/farting/talking. 
+&lt;p&gt;You’re sleeping on the floor of an elementary school gym thinking to yourself “Gosh it smells like shit in here, why am I doing this?”. Or the person next to you won’t stop snoring/farting/talking. 
 &lt;img src=&quot;/images/articles/ragnar-sleepingfloor.jpg&quot; alt=&quot;Sleeping on the floor with style&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The things you put into your stomach are ridiculous. I ate more random crap during the Relay then I do on a drunken Christmas treat binge. We had one member of our team bring home-made fried rice, and that was about the most sane thing I ate the whole trip. I mean I was sitting in the front of the van giving directions elbow deep into a bag of Cheetos. I didn’t even recognize myself. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-friedrice.jpg&quot; alt=&quot;Fried Rice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then there’s the running. The race is actually quite hard, Ragnar even says that its one of their hardest races in the series. The Colorado relay is the highest in terms of elevation, and running that high in the sky is hard. Running and then stopping and then running again is harder than people think. Your leg muscles start to lock up after your 8 mile run when you’re crammed into a car chasing down your runner. &lt;/p&gt;
 
 &lt;h3 id=&quot;crazy-exhausting--emotional&quot;&gt;Crazy exhausting &amp;amp; emotional&lt;/h3&gt;
 
@@ -182,7 +77,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;p&gt;It’s the middle of the night - and we’ve been running on empty for about 20 hours, we can’t find our runner that we need to meet. Of course we’re in the middle of the mountains and have nothing that resembles cell service, so we’re just wandering around trying to find our runner, only to find out that she’s already ready and waiting at the van. &lt;/p&gt;
 
-&lt;p&gt;The last leg of every runner’s set is always the hardest emotionally and maybe physically. There’s a moment when you’re running that last leg that you think “holy shit this is almost over…”. These emotions come over you that you don’t expect. Things like “Wow - I just did this great thing with these amazing people.” or “Where the hell is the ‘one mile to go’ sign? I’ve been running for ages.” That’s when you look at your watch and you’re only .5 miles in to a 10 mile leg. &lt;/p&gt;
+&lt;p&gt;The last leg of every runner’s set is always the hardest emotionally and maybe physically. There’s a moment when you’re running that last leg that you think “holy shit this is almost over…”, which is when these emotions come over you that you don’t expect. Things like “Wow - I just did this great thing with these amazing people.” or “Where the hell is the ‘one mile to go’ sign? I’ve been running for ages.” That’s when you look at your watch and you’re only .5 miles in to a 10 mile leg. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-cojo-sweat.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -199,7 +94,194 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-kevin.jpg&quot; alt=&quot;Kevin&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/whats-a-pirates-favorite-race/&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/whats-a-pirates-favorite-race/&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Simple Energy]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/design/simple-energy/" />
+  <id>http://localhost:4000/design/simple-energy</id>
+  <published>2015-01-13T20:30:11-07:00</published>
+  <updated>2015-01-13T20:30:11-07:00</updated>
+  <author>
+    <name>Cara Jo</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;As the Lead Designer at Simple Energy, I’ve had a chance to design some really awesome things, for a great company. I’ve been there from what feels like the beginning, starting with the company when it was only 12 people strong. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve watched it grow into a large company of 50+ in less than two years, and with that bringing in some great talent and ideas. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Design isn’t all I do at Simple Energy. I am on the engineering team, so I’m immersed deep within the produciton of our amazing products. But, that doesn’t mean I just sit in a cave all day and write code. I get to help design the office, the custom Simple Energy beer labels, the team member swag, annual holiday cards, and other goodies that make working there just more fun.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Below are a few of my favorite projects I’ve worked at while at Simple Energy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;logo-design&quot;&gt;Logo Design&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Our old logo with Museo Sans and gradients everywhere was looking a little dates. I collaborated with a team of brand specialists to work on re-branding the company.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-04.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;business-cards&quot;&gt;Business Cards&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Our brand is simple, clean, fun, and flat. When designing these business cards I wanted to bring all those elements into a 3.5” x 2” space. The leadership and sales teams all received horizontal cards, while the engineers and designers received vertical cards. But of course everyone had an option of what format they wanted! &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-03.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;corporate-website&quot;&gt;Corporate Website&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;With our re-brand came a shiny new site to showcase our Engagement Platform and other products. In addition to showcasing our beautiful products, this site also reflects the great &lt;a href=&quot;http://simpleenergy.com/company/&quot;&gt;culture at Simple Energy&lt;/a&gt;. &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-08.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;img src=&quot;/images/design/design-09.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;holiday-cards&quot;&gt;2014 Holiday Cards&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;To keep up with Simple Energy’s mission of motivating people to save energy, we decided to be a little witty with this year’s holiday cards.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-02.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;beer-labels&quot;&gt;Beer Labels&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Simple Energy has a brewmaster on staff, he uses his skills to create custom beer for the company. The team votes on names for each new batch, then it’s labeled and bottled for everyone to take home.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-01.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;core-values-icons&quot;&gt;Core Values Icons&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;At Simple Energy we have a set of Core Values that everyone is expected to uphold. To keep those Values front and center in the culture, we were tasked with designing icons to represent them that could be used throughout the office. I collaborated with another designer to create these five. Of course Do The Hard Things and Have Fun Together are my favorite, but I’m a bit biased.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-05.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;ragnar-relay-apparel&quot;&gt;Ragnar Relay Apparel&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;The team members at Simple Energy are very active, and sometimes participate in crazy races together. As team captain of our company Ragnar Relay team the Rolling Blackouts, I got to design super custom race shirts. The team wore these throughout the weekend to represent the team and the company. &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-06.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;img src=&quot;/images/design/design-07.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/simple-energy/&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Girl Develop It]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/design/girl-develop-it/" />
+  <id>http://localhost:4000/design/girl-develop-it</id>
+  <published>2015-01-13T19:48:56-07:00</published>
+  <updated>2015-01-13T19:48:56-07:00</updated>
+  <author>
+    <name>Cara Jo</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Girl Develop It is a non-profit that empowers women to learn software development. During the 3 years I’ve been with GDI I’ve had some time to design assets for the whole organization, of over 198 women leaders, to use.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;business-cards&quot;&gt;Business Cards&lt;/h2&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;These are customized down to the chapter level.  &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-15.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;holiday-cards&quot;&gt;Holiday Cards&lt;/h2&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;As a thank you to our sponsors and volunteers, chapters send out hand written Holiday Cards.  &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-13.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;invitation&quot;&gt;Invitation&lt;/h2&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Chapters have launch parties and other large events that need more legit looking invitaions than MeetUp can provide.   &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-14.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;chapter-map&quot;&gt;Chapter Map&lt;/h2&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Another resource for chapters is having an accurate representation of the impact Girl Develop It is having across the country. This is used in posters, advertising, presentations and on the website.   &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-17.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;gallery-item&quot;&gt;
+  &lt;h2 id=&quot;stickers&quot;&gt;Stickers&lt;/h2&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Often times chapters don’t have the resources to create their own stickers for their chapters or events. Templates are provided for them to allow them to do this.    &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/design/design-16.jpg&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/girl-develop-it/&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Freelance]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/design/freelance/" />
+  <id>http://localhost:4000/design/freelance</id>
+  <published>2015-01-13T18:06:37-07:00</published>
+  <updated>2015-01-13T18:06:37-07:00</updated>
+  <author>
+    <name>Cara Jo</name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/freelance/&quot;&gt;Freelance&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -207,13 +289,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 <entry>
   <title type="html"><![CDATA[Get Involved With Girl Develop It in 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/" />
-  <id>http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/" />
+  <id>http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015</id>
   <published>2015-01-13T14:54:01-07:00</published>
   <updated>2015-01-13T14:54:01-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">&lt;p&gt;Girl Develop It is now in over &lt;a href=&quot;http://girldevelopit.com/chapters&quot;&gt;45 cities across the country&lt;/a&gt;. It’s pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.&lt;/p&gt;
@@ -301,7 +383,7 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If donating money is more your thing, you can &lt;a href=&quot;http://girldevelopit.com/donate&quot;&gt;donate to a chapter&lt;/a&gt; or the global organization.&lt;/em&gt; &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -309,13 +391,13 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Norwegian Star Hat]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-norwegian-star-hat/" />
-  <id>http://cojorado.com/knitting/pattern-norwegian-star-hat</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-norwegian-star-hat/" />
+  <id>http://localhost:4000/knitting/pattern-norwegian-star-hat</id>
   <published>2014-12-24T12:57:57-07:00</published>
   <updated>2014-12-24T12:57:57-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -382,7 +464,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-gray1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -390,13 +472,13 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2014 a Year in Photos]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/photography/2014-a-year-in-photos/" />
-  <id>http://cojorado.com/photography/2014-a-year-in-photos</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/photography/2014-a-year-in-photos/" />
+  <id>http://localhost:4000/photography/2014-a-year-in-photos</id>
   <published>2014-12-24T12:10:55-07:00</published>
   <updated>2014-12-24T12:10:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -427,7 +509,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15504103843/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/photography/2014-boulder-flatirons.jpg&quot; alt=&quot;Boulder Flatirons&quot; title=&quot;Boulder Flatirons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -435,13 +517,13 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Brioche Weather Scarf]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-brioche-weather-scarf/" />
-  <id>http://cojorado.com/knitting/pattern-brioche-weather-scarf</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-brioche-weather-scarf/" />
+  <id>http://localhost:4000/knitting/pattern-brioche-weather-scarf</id>
   <published>2014-12-23T16:36:10-07:00</published>
   <updated>2014-12-23T16:36:10-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">&lt;p&gt;Recently, I was in New York attending the 2014 Girl Develop It Leadership Summit. One of the chapter leaders that I was sitting next to was knitting a small project and we started talking about all the other awesome projects she was working on. She had briefly mentioned that she was also working on a ‘weather scarf’ and initially I thought “what else would you use a scarf in, besides weather?”. She went on to explain that each row was it’s own color that was based on the average temperature for that day. &lt;/p&gt;
@@ -550,7 +632,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;Cheers to 2015! &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
