@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Cojorado</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-01-16T23:34:56-07:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://cojorado.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://cojorado.com" />
+<updated>2015-01-21T14:26:37-07:00</updated>
+<id>http://cojorado.com/</id>
 <author>
   <name>Cara Jo</name>
-  <uri>http://localhost:4000/</uri>
-  
+  <uri>http://cojorado.com/</uri>
+  <email>carajo@cojorado.com</email>
 </author>
 
 
@@ -17,20 +17,20 @@
 
 <entry>
   <title type="html"><![CDATA[Brioche Scarf: 1/1 - 1/14]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/brioche-scarf-1-1-1-14/" />
-  <id>http://localhost:4000/knitting/brioche-scarf-1-1-1-14</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/brioche-scarf-1-1-1-14/" />
+  <id>http://cojorado.com/knitting/brioche-scarf-1-1-1-14</id>
   <published>2015-01-15T22:18:20-07:00</published>
   <updated>2015-01-15T22:18:20-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;It’s been 14 days since the beginning of 2015, which means I’m 14 rows into my weather scarf.&lt;/p&gt;
 
 &lt;p&gt;I wanted to share some progress photos and some times &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/brioche-scarf-1-1-1-14/&quot;&gt;Brioche Scarf: 1/1 - 1/14&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 15, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/brioche-scarf-1-1-1-14/&quot;&gt;Brioche Scarf: 1/1 - 1/14&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 15, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -38,33 +38,33 @@
 
 <entry>
   <title type="html"><![CDATA[What's a Pirate's Favorite Race? Ragnaaaar!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/whats-a-pirates-favorite-race/" />
-  <id>http://localhost:4000/articles/whats-a-pirates-favorite-race</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/whats-a-pirates-favorite-race/" />
+  <id>http://cojorado.com/articles/whats-a-pirates-favorite-race</id>
   <published>2015-01-14T13:45:55-07:00</published>
   <updated>2015-01-14T13:45:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
-  <content type="html">&lt;h4 id=&quot;what-has-12-arms-12-legs-and-12-eyes&quot;&gt;What has 12 arms, 12 legs and 12 eyes?&lt;/h4&gt;
+  <content type="html">&lt;h4 id=&quot;what-has-12-arms-12-legs-and-12-eyes&quot;&gt;What has 12 arms, 12 legs, and 12 eyes?&lt;/h4&gt;
 
 &lt;h4 id=&quot;a-dozen-pirates&quot;&gt;A dozen pirates.&lt;/h4&gt;
 
-&lt;p&gt;Or, one kick ass Ragnar Relay team! &lt;/p&gt;
+&lt;p&gt;Or, one van full of Ragnar Runners! &lt;/p&gt;
 
-&lt;p&gt;A Ragnar Relay is one of those things that you tell your mom you’re going to do and she either responds with “You’re crazy” or tries to join in. In my case it was the latter, but there are a lot of people out there who think doing a 200 mile relay over 36 hours with 11 of your friends is…crazy. &lt;/p&gt;
+&lt;p&gt;A Ragnar Relay is one of those things that you tell your mom you’re going to do and she either responds with “You’re crazy” or tries to join in. In my case, it was the latter, but there are a lot of people out there who think doing a 200 mile relay over 36 hours with 11 of your friends is…crazy. &lt;/p&gt;
 
 &lt;p&gt;Now that I think about it, Ragnar &lt;strong&gt;IS&lt;/strong&gt; crazy. &lt;/p&gt;
 
 &lt;h3 id=&quot;crazy-fun&quot;&gt;Crazy fun&lt;/h3&gt;
-&lt;p&gt;Here’s the thing; Ragnar is fun, if you embrace the crazy. You have to go into it with a positive attitude and try not to let the little things get to you. Only then will you be able to experience the joy and achievement of running 200 miles as a team spread between two vans.&lt;/p&gt;
+&lt;p&gt;Here’s the thing; Ragnar is fun if you embrace the crazy. You have to go into it with a positive attitude and try not to let the little things get to you. Only then will you be able to experience the joy and achievement of running 200 miles as a team spread between two vans.&lt;/p&gt;
 
-&lt;p&gt;For the 2014 Colorado race, I gathered a handful of my crazy runner co-workers, and convinced a few friends to join in on this adventure from Copper Mountain to Aspen. &lt;/p&gt;
+&lt;p&gt;For the 2014 Colorado race, I gathered a handful of my crazy runner co-workers and convinced a few friends to join in on this adventure from Copper Mountain to Aspen. &lt;/p&gt;
 
-&lt;p&gt;Before you even get to run, there’s somethings that need to be taken care of as a team. First - the team name. We had to come up with the best team name that represented the people on it. After many submissions to one of my many Google Forms, we settled on “Rolling Blackouts”. We landed on this because it’s a witty play on energy usage, and we have a custom beer in it’s namesake. &lt;/p&gt;
+&lt;p&gt;Before you even get to run, there’s some things that need to be taken care of as a team. First - the team name. We had to come up with the best team name that represented the people on it. After many submissions to one of my many Google Forms, we settled on “Rolling Blackouts”. We landed on this because it’s a witty play on energy usage, and we have a custom beer in its namesake. &lt;/p&gt;
 
-&lt;p&gt;Not to mention there’s the notebooks, gear lists, food lists, van logisitics, and money.  &lt;/p&gt;
+&lt;p&gt;Not to mention there’s the notebooks, gear lists, food lists, van logistics, and money.  &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-van.jpg&quot; alt=&quot;Rolling Blackouts Van&quot; /&gt;&lt;/p&gt;
 
@@ -74,9 +74,9 @@
 
 &lt;p&gt;Van 1 gets rolling bright and early and heads to the start. Van 2 however…goes back to sleep. We’re not scheduled to start for another 7 hours, and plan to take full advantage of sleeping in a bed. It did give us time to head to the grocery store to grab some last minute snacks that Van 1 needed, and to get fixings for breakfast. &lt;/p&gt;
 
-&lt;p&gt;We meet Van 1 at exchange 6 and start running legs 7-12. We won’t see Van 2 again for another 8 or so hours. They take advantage of the free time and go out to eat and sleep. &lt;/p&gt;
+&lt;p&gt;We meet Van 1 at Exchange 6 and start running legs 7-12. We won’t see Van 2 again for another 8 or so hours. They take advantage of the free time and go out to eat and sleep. &lt;/p&gt;
 
-&lt;p&gt;This piggybacking continues for the duration of the event until we finally all meetup at the finish line to cheer on runner 12 as she completes leg 36 into the finish. &lt;/p&gt;
+&lt;p&gt;This piggybacking continues for the duration of the event until we finally all meet up at the finish line to cheer on runner 12 as she completes leg 36 into the finish. &lt;/p&gt;
 
 &lt;h3 id=&quot;crazy-hard&quot;&gt;Crazy Hard&lt;/h3&gt;
 &lt;p&gt;A lot of people think that &lt;strong&gt;running&lt;/strong&gt; Ragnar is hard. I think it’s actually the parts where you’re &lt;strong&gt;not&lt;/strong&gt; running that’s harder. &lt;/p&gt;
@@ -86,23 +86,23 @@
 &lt;p&gt;You’re sleeping on the floor of an elementary school gym thinking to yourself “Gosh it smells like shit in here, why am I doing this?”. Or the person next to you won’t stop snoring/farting/talking. 
 &lt;img src=&quot;/images/articles/ragnar-sleepingfloor.jpg&quot; alt=&quot;Sleeping on the floor with style&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The things you put into your stomach are ridiculous. I ate more random crap during the Relay then I do on a drunken Christmas treat binge. We had one member of our team bring home-made fried rice, and that was about the most sane thing I ate the whole trip. I mean I was sitting in the front of the van giving directions elbow deep into a bag of Cheetos. I didn’t even recognize myself. &lt;/p&gt;
+&lt;p&gt;The things you put into your stomach are ridiculous. I ate more random crap during the Relay then I do on a drunken Christmas treat binge. We had one member of our team bring home-made fried rice, and that was about the sanest thing I ate the whole trip. I mean I was sitting in the front of the van giving directions elbow deep into a bag of Cheetos. I didn’t even recognize myself. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-friedrice.jpg&quot; alt=&quot;Fried Rice&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Then there’s the running. The race is actually quite hard, Ragnar even says that its one of their hardest races in the series. The Colorado relay is the highest in terms of elevation, and running that high in the sky is hard. Running and then stopping and then running again is harder than people think. Your leg muscles start to lock up after your 8 mile run when you’re crammed into a car chasing down your runner. &lt;/p&gt;
+&lt;p&gt;Then there’s the running. The race is actually quite hard, Ragnar even says that it’s one of their hardest races in the series. The Colorado Relay is the highest in terms of elevation, and running that high in the sky is hard. Running and then stopping and then running again is harder than people think. Your leg muscles start to lock up after your 8 mile run when you’re crammed into a car chasing down your runner. &lt;/p&gt;
 
 &lt;h3 id=&quot;crazy-exhausting--emotional&quot;&gt;Crazy exhausting &amp;amp; emotional&lt;/h3&gt;
 
-&lt;p&gt;You’re sleeping on the floor with your slowly deflating mattress pad because you were too tired to close the valve…whatever. Just after you finally reach that sweet spot of falling asleep, your teammates come wake you to tell you it’s time to run. Ha. Ha.&lt;/p&gt;
+&lt;p&gt;You’re sleeping on the floor with your slowly deflating mattress pad because you were too tired to close the valve…whatever. Just after you finally reach that sweet spot of falling asleep, your teammates come wake you to tell you its time to run. Ha. Ha.&lt;/p&gt;
 
-&lt;p&gt;It’s the middle of the night - and we’ve been running on empty for about 20 hours, we can’t find our runner that we need to meet. Of course we’re in the middle of the mountains and have nothing that resembles cell service, so we’re just wandering around trying to find our runner, only to find out that she’s already ready and waiting at the van. &lt;/p&gt;
+&lt;p&gt;It’s the middle of the night - and we’ve been running on empty for about 20 hours, we can’t find our runner that we need to meet. Of course we’re in the middle of the mountains and have nothing that resembles cell service, so we’re just wandering around trying to find our runner, only to find out that she’s already ready and waiting in the van. &lt;/p&gt;
 
-&lt;p&gt;The last leg of every runner’s set is always the hardest emotionally and maybe physically. There’s a moment when you’re running that last leg that you think “holy shit this is almost over…”, which is when these emotions come over you that you don’t expect. Things like “Wow - I just did this great thing with these amazing people.” or “Where the hell is the ‘one mile to go’ sign? I’ve been running for ages.” That’s when you look at your watch and you’re only .5 miles in to a 10 mile leg. &lt;/p&gt;
+&lt;p&gt;The last leg of every runner’s set is always the hardest emotionally and maybe physically. There’s a moment when you’re running that last leg that you think “holy shit this is almost over…”, which is when these emotions come over you that you don’t expect. Things like “Wow - I just did this great thing with these amazing people.” or “Where the hell is the ‘one mile to go’ sign? I’ve been running for ages.” That’s when you look at your watch and you’re only .5 miles into a 10 mile leg. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-cojo-sweat.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-cojo-sweat.jpg&quot; alt=&quot;Sweaty Cojo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It’s literally blood, sweat, and tears out there on that last leg, maybe even some vomit. The runner before me on my last leg said “sorry I was so slow - I had to puke into a bush”. Who apologizes for that!? Half way into my last leg of 10 miles uphill, I just sat down in the middle of the course and started crying. I was dehydrated, hungry, tired, and so very hot. August sun in the middle of the day in Colorado does not make for an ‘easy run’. &lt;/p&gt;
+&lt;p&gt;It’s literally blood, sweat, and tears out there on that last leg, maybe even some vomit. The runner before me on my last leg said, “sorry I was so slow - I had to puke into a bush”. Who apologizes for that!? Half way into my last leg of 10 miles uphill, I just sat down in the middle of the course and started crying. I was dehydrated, hungry, tired, and so very hot. August sun in the middle of the day in Colorado does not make for an ‘easy run’. &lt;/p&gt;
 
 &lt;p&gt;My teammates were there for me though. They helped me get up, hydrated, fed and told me to “stop crying about it and just run”. Then, a mile before the finish of my last leg - I see a teammate running towards me in the rain. Oh yeah, it started pouring ice cold rain right before I finished, I’m still unsure if it was a blessing or not.&lt;/p&gt;
 
@@ -114,8 +114,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/articles/ragnar-kevin.jpg&quot; alt=&quot;Kevin&quot; /&gt;&lt;/p&gt;
 
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/whats-a-pirates-favorite-race/&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/whats-a-pirates-favorite-race/&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -123,14 +122,14 @@
 
 <entry>
   <title type="html"><![CDATA[Simple Energy]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/design/simple-energy/" />
-  <id>http://localhost:4000/design/simple-energy</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/design/simple-energy/" />
+  <id>http://cojorado.com/design/simple-energy</id>
   <published>2015-01-13T20:30:11-07:00</published>
   <updated>2015-01-13T20:30:11-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;As the Lead Designer at Simple Energy, I’ve had a chance to design some really awesome things, for a great company. I’ve been there from what feels like the beginning, starting with the company when it was only 12 people strong. &lt;/p&gt;
@@ -212,7 +211,7 @@
 &lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/simple-energy/&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/simple-energy/&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -220,14 +219,14 @@
 
 <entry>
   <title type="html"><![CDATA[Girl Develop It]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/design/girl-develop-it/" />
-  <id>http://localhost:4000/design/girl-develop-it</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/design/girl-develop-it/" />
+  <id>http://cojorado.com/design/girl-develop-it</id>
   <published>2015-01-13T19:48:56-07:00</published>
   <updated>2015-01-13T19:48:56-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Girl Develop It is a non-profit that empowers women to learn software development. During the 3 years I’ve been with GDI I’ve had some time to design assets for the whole organization, of over 198 women leaders, to use.&lt;/p&gt;
@@ -283,7 +282,7 @@
   &lt;p&gt;&lt;img src=&quot;/images/design/design-16.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/girl-develop-it/&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/girl-develop-it/&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -291,16 +290,16 @@
 
 <entry>
   <title type="html"><![CDATA[Get Involved With Girl Develop It in 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/" />
-  <id>http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/" />
+  <id>http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015</id>
   <published>2015-01-13T14:54:01-07:00</published>
   <updated>2015-01-13T14:54:01-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
-  <content type="html">&lt;p&gt;Girl Develop It is now in over &lt;a href=&quot;http://girldevelopit.com/chapters&quot;&gt;45 cities across the country&lt;/a&gt;. It’s pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Girl Develop It is now in over &lt;a href=&quot;http://girldevelopit.com/chapters&quot;&gt;45 cities across the country&lt;/a&gt;. It’s pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years, Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/articles/chapter-locations.png&quot; alt=&quot;Chapter Locations&quot; /&gt;&lt;/p&gt;
 
@@ -334,10 +333,10 @@
 &lt;h4 id=&quot;new-classes&quot;&gt;New classes&lt;/h4&gt;
 &lt;p&gt;Our classes are designed to break down what can seem like a daunting topic - to it’s fundamentals. Classes are typically 8 hours and are taught over a weekend. &lt;/p&gt;
 
-&lt;p&gt;To start we want to offer some new classes like Python, Ruby, Android, iOs, Java, UX, and more. &lt;/p&gt;
+&lt;p&gt;To start, we want to offer some new classes like Python, Ruby, Android, iOs, Java, UX, and more. &lt;/p&gt;
 
 &lt;h4 id=&quot;new-workshops&quot;&gt;New Workshops&lt;/h4&gt;
-&lt;p&gt;Workshops are a great opportunity for our members to get their hands dirty with a new topic without committing to a whole class. These topics are usually taught in 2-3 hours on a weekday. We want to offer a huge (seriously huge) range of new workshops this year. &lt;/p&gt;
+&lt;p&gt;Workshops are a great opportunity for our members to get their hands dirty with a new topic without committing to the whole class. These topics are usually taught in 2-3 hours on a weekday. We want to offer a huge (seriously huge) range of new workshops this year. &lt;/p&gt;
 
 &lt;p&gt;Just to start we’re going to offer workshops like Sketch 3, Photoshop, Agile/Scrum, Behavioral Science, WordPress, FTP &amp;amp; GitHub Pages, Bootstrap, LESS, SASS, Sublime, Command Line, Docker and more.&lt;/p&gt;
 
@@ -385,7 +384,7 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If donating money is more your thing, you can &lt;a href=&quot;http://girldevelopit.com/donate&quot;&gt;donate to a chapter&lt;/a&gt; or the global organization.&lt;/em&gt; &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -393,14 +392,14 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Norwegian Star Hat]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-norwegian-star-hat/" />
-  <id>http://localhost:4000/knitting/pattern-norwegian-star-hat</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-norwegian-star-hat/" />
+  <id>http://cojorado.com/knitting/pattern-norwegian-star-hat</id>
   <published>2014-12-24T12:57:57-07:00</published>
   <updated>2014-12-24T12:57:57-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -466,7 +465,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-gray1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -474,14 +473,14 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2014 a Year in Photos]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/photography/2014-a-year-in-photos/" />
-  <id>http://localhost:4000/photography/2014-a-year-in-photos</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/photography/2014-a-year-in-photos/" />
+  <id>http://cojorado.com/photography/2014-a-year-in-photos</id>
   <published>2014-12-24T12:10:55-07:00</published>
   <updated>2014-12-24T12:10:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;2014 was a great year for taking photographs. I went on a lot of adventures to Utah and other areas in Colorado I had never been before. My obsession with Moab started in March and is still going strong. Camping in the middle of the mountains also provided great inspiration.&lt;/p&gt;
@@ -511,7 +510,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15504103843/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/photography/2014-boulder-flatirons.jpg&quot; alt=&quot;Boulder Flatirons&quot; title=&quot;Boulder Flatirons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -519,18 +518,18 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Brioche Weather Scarf]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-brioche-weather-scarf/" />
-  <id>http://localhost:4000/knitting/pattern-brioche-weather-scarf</id>
+  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-brioche-weather-scarf/" />
+  <id>http://cojorado.com/knitting/pattern-brioche-weather-scarf</id>
   <published>2014-12-23T16:36:10-07:00</published>
   <updated>2014-12-23T16:36:10-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://localhost:4000</uri>
-    
+    <uri>http://cojorado.com</uri>
+    <email>carajo@cojorado.com</email>
   </author>
-  <content type="html">&lt;p&gt;Recently, I was in New York attending the 2014 Girl Develop It Leadership Summit. One of the chapter leaders that I was sitting next to was knitting a small project and we started talking about all the other awesome projects she was working on. She had briefly mentioned that she was also working on a ‘weather scarf’ and initially I thought “what else would you use a scarf in, besides weather?”. She went on to explain that each row was it’s own color that was based on the average temperature for that day. &lt;/p&gt;
+  <content type="html">&lt;p&gt;Recently, I was in New York attending the 2014 Girl Develop It Leadership Summit. One of the chapter leaders that I was sitting next to was knitting a small project and we started talking about all the other awesome projects she was working on. She had briefly mentioned that she was also working on a ‘weather scarf’ and initially I thought “what else would you use a scarf in, besides the weather?”. She went on to explain that each row was it’s own color that was based on the average temperature for that day. &lt;/p&gt;
 
-&lt;p&gt;I thought more about it and decided that would be a fun project to do for 2015. I generally fail at knitting throughout the year, and binge knit in the winter months. Knitting is a nice stress release for me and allows me time to wind down at the end of the day. It also keeps my hands occupied so I don’t chew on them so much. &lt;/p&gt;
+&lt;p&gt;I thought more about it and decided that would be a fun project to do for 2015. I generally fail at knitting throughout the year, and binge knit in the winter months. Knitting is a nice stress release for me and allows me time to unwind at the end of the day.&lt;/p&gt;
 
 &lt;h3 id=&quot;many-questions&quot;&gt;Many Questions&lt;/h3&gt;
 &lt;p&gt;There were a few things I needed to get ready before I jumped into knitting 365 rows of colors. &lt;/p&gt;
@@ -566,17 +565,17 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/brioche-swatch.jpg&quot; alt=&quot;Swatch&quot; title=&quot;Color Swatch&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I went with 10 colors because I had originally wanted to go from 0-100 degrees with each color representing 10 degrees. I changed how many degrees each color represented, but still stuck with the 10 colors. &lt;/p&gt;
+&lt;p&gt;I went with 10 colors because I had originally wanted to go from 0 to 100 degrees with each color representing 10 degrees. I changed how many degrees each color represented, but still stuck with the 10 colors. &lt;/p&gt;
 
 &lt;h3 id=&quot;the-issue-about-the-weather&quot;&gt;The issue about the weather&lt;/h3&gt;
-&lt;p&gt;Initially I thought, I could just wing it, and figure out the weather on the fly. The more I thought about that, the more I decided that was a terrible idea. I wouldn’t know how much yarn to buy, and what colors, and how many colors. I set out in search of yearly weather data to help a girl out. &lt;/p&gt;
+&lt;p&gt;Initially I thought, I could just wing it, and figure out the weather on the fly. The more I thought about that, the more I decided that was a terrible idea. I wouldn’t know how much yarn to buy, and what colors and how many colors. I set out in search of yearly weather data to help a girl out. &lt;/p&gt;
 
 &lt;p&gt;Wunderground is my favorite weather source, for many reasons. My new favorite reason is the fact that they have an impressive &lt;a href=&quot;http://www.wunderground.com/history/airport/KBDU/2014/1/1/MonthlyHistory.html#observations_details&quot;&gt;archive of weather data&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To find the average temperature for each day I took the high and the low and found the average of those temperatures. I then popped the values into a spreadsheet and went to town. I filled a spreadsheet with all 365 days of 2013’s weather data to set a baseline for future years. I picked 2013 because it has a full year’s worth of data, instead of 2014 which is still in progress. 
+&lt;p&gt;To find the average temperature for each day I took the high and the low and found the average of those temperatures. I then popped the values into a spreadsheet and went to town. I filled a spreadsheet with 365 days of 2013’s weather data to set a baseline for future years. I picked 2013 because it has a full year’s worth of data, instead of 2014 which is still in progress. 
 &lt;img src=&quot;/images/knitting/brioche-fullspread.png&quot; alt=&quot;Brioche Spreadsheet&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks to Keith’s spreadsheet wizardry, we wrote a pretty fantastic sheet to do all these calculations for us. First, we find the average high for the year, then the low. Then we take that number and divide it by 9. Why 9? Because it’s the number of colors minus 1… After we’ve divided the averages by 9 we have what we like to call the DEGREES OF SEPARATION. This is how many degrees represent each color. In this example our degress of separation is 9, so each color represents 9 degrees of change. 
+&lt;p&gt;Thanks to Keith’s spreadsheet wizardry, we wrote a pretty fantastic sheet to do all these calculations for us. First, we find the average high for the year, then the low. Then we take that number and divide it by 9. Why 9? Because it’s the number of colors minus 1… After we’ve divided the averages by 9 we have what we like to call the DEGREES OF SEPARATION. This is how many degrees represent each color. In this example our degrees of separation are 9, so each color represents 9 degrees of change. 
 &lt;img src=&quot;/images/knitting/brioche-degsep.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Math is hard, that is why Keith does it for me. &lt;/p&gt;
@@ -585,7 +584,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;img src=&quot;/images/knitting/brioche-allmonths.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;the-pattern&quot;&gt;The pattern&lt;/h3&gt;
-&lt;p&gt;In the past I’ve struggled with making scarves because I find them boring and long. But then one day, I discovered the Brioche stitch, and my life has never been the same. The Brioche stitch is a magical stitch that makes all ribbing fluffy, enjoyable, and fast! I hate ribbing - but love how it’s reversible. A lot of people are intimidated by the Brioche stitch because it has an abundance of annoying acronyms. Let me tell you friends, it’s nothing but pure speed knitting satisfaction.&lt;/p&gt;
+&lt;p&gt;In the past, I’ve struggled with making scarves because I find them boring and long. But then one day, I discovered the Brioche stitch, and my life has never been the same. The Brioche stitch is a magical stitch that makes all ribbing fluffy, enjoyable, and fast! I hate ribbing - but love how it’s reversible. A lot of people are intimidated by the Brioche stitch because it has an abundance of annoying acronyms. Let me tell you friends, it’s nothing but pure speed knitting satisfaction.&lt;/p&gt;
 
 &lt;h4 id=&quot;heres-the-super-easy-pattern&quot;&gt;Here’s the super easy pattern:&lt;/h4&gt;
 
@@ -597,7 +596,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Set up Row:&lt;/strong&gt; K2, *(wyf) slip 1, YO, K1; repeat from * to last two stitches, K1, S1&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Pattern Row :&lt;/strong&gt; K2 *(wyf) slip 1, K2TOG; repeat from * to last two stitches K1, S1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pattern Row:&lt;/strong&gt; K2 *(wyf) slip 1, K2TOG; repeat from * to last two stitches K1, S1&lt;/p&gt;
 
 &lt;p&gt;Repeat Pattern Row twice for each day, this will create what appears as one row. Since the Brioche stitch is a special fluffy flower, two rows equal what appears to be one wide row. By doing two rows each day, all the yarn ends will stay on the same side of the scarf and you won’t run into that problem of having the yarn you need on the other side of the row. The two stitches on either side of the pattern are to create a clean edge up the scarf, optional if you’re not into that. &lt;/p&gt;
 
@@ -614,9 +613,9 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;h3 id=&quot;you-can-do-it-too&quot;&gt;You can do it too!&lt;/h3&gt;
 &lt;p&gt;I’ve made the spreadsheet &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1pjsKu63y7HSVjkdF7K62ibfLJBV95QZR4Mbh4eoGtWc/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;publicly available&lt;/a&gt; for this pattern, with all the work already done for you! All you need to do is enter in the highs and the lows for each day and it will calculate everything for you. Questions? Comment below!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Note: anywhere you see a light blue cell is a cell you can edit. Well you can edit any cell you want - but these special blue cells are the ones that are used for calulations&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: anywhere you see a light blue cell is a cell you can edit. Well, you can edit any cell you want - but these special blue cells are the ones that are used for calulations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I have provided two tabs for you to get started. Tab one, is the previous year’s data. This will help you set up a baseline temperature to calculate the degrees of separation, as well as calculate the yardage you’ll need of each color.&lt;/p&gt;
+&lt;p&gt;I have provided two tabs for you to get started. Tab one is the previous year’s data. This will help you set up a baseline temperature to calculate the degrees of separation, as well as calculate the yardage you’ll need of each color.&lt;/p&gt;
 
 &lt;p&gt;The colors are conditional statements that you can change to match your color scheme.
 &lt;img src=&quot;/images/knitting/brioche-conditional.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -624,7 +623,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;To get a proper yardage calculation enter in the yardage per skein. If you are going to use a different pattern you should knit at one row in the pattern and then measure how many inches that row uses of yarn. This number is what calculates the yards used. Inches per row divided by 36 = yards of yarn you need to buy.
 &lt;img src=&quot;/images/knitting/brioche-yardage.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’ve also provided you with some links to sample data from Wunderground. This is currently set to my location here in Boulder, CO. Feel free to update those to match your zipcode! &lt;/p&gt;
+&lt;p&gt;I’ve also provided you with some links to sample data from Wunderground. This is currently set to my location here in Boulder, CO. Feel free to update those to match your zip code! &lt;/p&gt;
 
 &lt;p&gt;Don’t forget to copy this to your Google Drive by going to &lt;em&gt;File &amp;gt; Make a Copy&lt;/em&gt;. This way you can edit it and you won’t lose any changes.
 &lt;img src=&quot;/images/knitting/brioche-makecopy.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -634,7 +633,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;Cheers to 2015! &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
