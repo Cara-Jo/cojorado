@@ -10,8 +10,7 @@ image:
 date: 2015-01-13T14:54:01-07:00
 comments: true
 ---
-
-Girl Develop It is now in over [45 cities across the country](http://girldevelopit.com/chapters). It's pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.
+Girl Develop It is now in over [45 cities across the country](http://girldevelopit.com/chapters). It's pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years, Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.
 
 ![Chapter Locations](/images/articles/chapter-locations.png)
 
@@ -45,10 +44,10 @@ As the group grows, so do the needs of its members. We want to make sure that ev
 #### New classes
 Our classes are designed to break down what can seem like a daunting topic - to it's fundamentals. Classes are typically 8 hours and are taught over a weekend. 
 
-To start we want to offer some new classes like Python, Ruby, Android, iOs, Java, UX, and more. 
+To start, we want to offer some new classes like Python, Ruby, Android, iOs, Java, UX, and more. 
 
 #### New Workshops
-Workshops are a great opportunity for our members to get their hands dirty with a new topic without committing to a whole class. These topics are usually taught in 2-3 hours on a weekday. We want to offer a huge (seriously huge) range of new workshops this year. 
+Workshops are a great opportunity for our members to get their hands dirty with a new topic without committing to the whole class. These topics are usually taught in 2-3 hours on a weekday. We want to offer a huge (seriously huge) range of new workshops this year. 
 
 Just to start we're going to offer workshops like Sketch 3, Photoshop, Agile/Scrum, Behavioral Science, WordPress, FTP & GitHub Pages, Bootstrap, LESS, SASS, Sublime, Command Line, Docker and more.
 
@@ -94,7 +93,6 @@ We always open to ideas for classes, programming and overall improvements for th
 Fill out the volunteer interest survey at [gdiboulder.com/support](http://gdiboulder.com/support) to get started with Girl Develop It Boulder. 
 
 *If donating money is more your thing, you can [donate to a chapter](http://girldevelopit.com/donate) or the global organization.* 
-
 
 
 
