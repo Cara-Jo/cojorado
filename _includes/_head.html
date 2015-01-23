@@ -61,7 +61,7 @@
 	{% if post.image.feature contains 'http' %}
 		{{ post.image.feature }}
 	{% else %}
-		{{ site.url }}/images/{{ post.image.feature }}
+		/images/{{ post.image.feature }}
 	{% endif %}"/>
 	{% else %}
 	<meta property="og:image" content="/images/cojo-about-grass.jpg" /> 
