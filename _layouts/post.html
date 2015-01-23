@@ -5,6 +5,18 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+
+{% if page.image.feature %}
+  <meta property="og:image" content="
+  {% if page.image.feature contains 'http' %}
+      {{ page.image.feature }}
+    {% else %}
+      {{ site.url }}/images/{{ page.image.feature }}
+    {% endif %}"
+{% else %}
+  "{{ site.url }}/images/greatlakesrockies.png"
+{% endif %}
+/>
 </head>
 
 <body class="post">
