@@ -76,3 +76,5 @@ I couldn’t have done any of that without the team.
 Embracing the crazy of everyone and the weekend, is what Ragnar is all about. You want to do this crazy hard thing, and these people cheer you on through the whole experience. They know you can’t do it without them, and they can’t do it without you. 
 
 ![Kevin](/images/articles/ragnar-kevin.jpg)
+
+_**I'm gathering 11 more friends this year to run Ragnar Colorado again. If you're interested in joining the crazy, email me at hi@cojorado.com.**_
