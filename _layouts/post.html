@@ -8,7 +8,7 @@
 </head>
 
 <body class="post">
-
+{% include _facebooksdk.html %}
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
@@ -42,13 +42,16 @@
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
+
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
     
       {{ content }}
       <hr />
       <footer role="contentinfo">
-        
+        <div class="socials">
+          <div class="fb-share-button" data-href="{{ page.link }}" data-layout="button"></div>
+        </div>
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
     </div><!-- /.article-wrap -->

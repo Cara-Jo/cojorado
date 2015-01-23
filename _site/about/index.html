@@ -70,9 +70,40 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cojorado.com/images/apple-touch-icon-144x144-precomposed.png">
 
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About Cara Jo &#8211; Cojorado" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://cojorado.com" />
+<meta property="og:site_name" content="Cojorado" />
+
+	<meta property="og:image" content="/images/cojo-about-grass.jpg" /> 
+
+
+
+
+
+
 </head>
 
 <body class="page">
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '407500082759680',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
 <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
