@@ -1,185 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://cojorado.com/articles/stop-telling-people/</loc>
+    <loc>http://localhost:4000/articles/stop-telling-people/</loc>
     <lastmod>2015-01-21T14:38:11-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/knitting/brioche-scarf-1-1-1-14/</loc>
+    <loc>http://localhost:4000/knitting/brioche-scarf-1-1-1-14/</loc>
     <lastmod>2015-01-15T22:18:20-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/articles/whats-a-pirates-favorite-race/</loc>
+    <loc>http://localhost:4000/articles/whats-a-pirates-favorite-race/</loc>
     <lastmod>2015-01-14T13:45:55-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/design/simple-energy/</loc>
+    <loc>http://localhost:4000/design/simple-energy/</loc>
     <lastmod>2015-01-13T20:30:11-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/design/girl-develop-it/</loc>
+    <loc>http://localhost:4000/design/girl-develop-it/</loc>
     <lastmod>2015-01-13T19:48:56-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/</loc>
+    <loc>http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/</loc>
     <lastmod>2015-01-13T14:54:01-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/knitting/pattern-norwegian-star-hat/</loc>
+    <loc>http://localhost:4000/knitting/pattern-norwegian-star-hat/</loc>
     <lastmod>2014-12-24T12:57:57-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/photography/2014-a-year-in-photos/</loc>
+    <loc>http://localhost:4000/photography/2014-a-year-in-photos/</loc>
     <lastmod>2014-12-24T12:10:55-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/knitting/pattern-brioche-weather-scarf/</loc>
+    <loc>http://localhost:4000/knitting/pattern-brioche-weather-scarf/</loc>
     <lastmod>2014-12-23T16:36:10-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2011-03-10-sample-post.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2011-03-10-sample-post.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2012-05-22-readability-post.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2012-05-22-readability-post.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-03-18-from-the-great-lakes-to-the-rockies.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-03-18-from-the-great-lakes-to-the-rockies.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-03-20-going-away-meals-galore.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-03-20-going-away-meals-galore.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-03-22-top-5-things-ill-miss-about-living-in-michigan.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-03-22-top-5-things-ill-miss-about-living-in-michigan.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-03-23-the-best-going-away-party-ever.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-03-23-the-best-going-away-party-ever.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-03-24-last-gdi-detroit-class.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-03-24-last-gdi-detroit-class.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-05-22-sample-post-images.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-05-22-sample-post-images.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-05-23-readability-feature-post.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-05-23-readability-feature-post.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-08-12-sample-link-post.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-08-12-sample-link-post.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2013-08-16-code-highlighting-post.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2013-08-16-code-highlighting-post.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2014-07-31-author-override.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2014-07-31-author-override.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/archive/2014-12-01-simple-energy-holiday-cards.html</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/archive/2014-12-01-simple-energy-holiday-cards.html</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/posts/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/posts/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/hire/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/hire/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/articles/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/articles/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/design/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/design/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/about/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/adventures/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/adventures/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/theme-setup/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/theme-setup/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/knitting/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/knitting/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/photography/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/photography/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://cojorado.com/</loc>
-    <lastmod>2015-01-23T16:54:33-07:00</lastmod>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2015-01-26T17:20:54-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Cojorado</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://cojorado.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://cojorado.com" />
-<updated>2015-01-23T16:54:33-07:00</updated>
-<id>http://cojorado.com/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-01-26T17:20:54-07:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Cara Jo</name>
-  <uri>http://cojorado.com/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>carajo@cojorado.com</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[The Mountains are Calling and I Must Go]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/stop-telling-people/" />
-  <id>http://cojorado.com/articles/stop-telling-people</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/stop-telling-people/" />
+  <id>http://localhost:4000/articles/stop-telling-people</id>
   <published>2015-01-21T14:38:11-07:00</published>
   <updated>2015-01-21T14:38:11-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;One year and nine months ago, give or take a few days, I moved to Boulder, Colorado. I never thought I would move to Colorado, hell it wasn’t even on my radar. &lt;/p&gt;
@@ -73,7 +73,7 @@
 &lt;p&gt;&lt;strong&gt;The next time you tell someone they can’t do something, be prepared to be proven wrong.&lt;/strong&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/stop-telling-people/&quot;&gt;The Mountains are Calling and I Must Go&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 21, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/stop-telling-people/&quot;&gt;The Mountains are Calling and I Must Go&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 21, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -81,20 +81,20 @@
 
 <entry>
   <title type="html"><![CDATA[Brioche Scarf: 1/1 - 1/14]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/brioche-scarf-1-1-1-14/" />
-  <id>http://cojorado.com/knitting/brioche-scarf-1-1-1-14</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/brioche-scarf-1-1-1-14/" />
+  <id>http://localhost:4000/knitting/brioche-scarf-1-1-1-14</id>
   <published>2015-01-15T22:18:20-07:00</published>
   <updated>2015-01-15T22:18:20-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;It’s been 14 days since the beginning of 2015, which means I’m 14 rows into my weather scarf.&lt;/p&gt;
 
 &lt;p&gt;I wanted to share some progress photos and some times &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/brioche-scarf-1-1-1-14/&quot;&gt;Brioche Scarf: 1/1 - 1/14&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 15, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/brioche-scarf-1-1-1-14/&quot;&gt;Brioche Scarf: 1/1 - 1/14&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 15, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -102,13 +102,13 @@
 
 <entry>
   <title type="html"><![CDATA[What's a Pirate's Favorite Race? Ragnaaaar!]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/whats-a-pirates-favorite-race/" />
-  <id>http://cojorado.com/articles/whats-a-pirates-favorite-race</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/whats-a-pirates-favorite-race/" />
+  <id>http://localhost:4000/articles/whats-a-pirates-favorite-race</id>
   <published>2015-01-14T13:45:55-07:00</published>
   <updated>2015-01-14T13:45:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;h4 id=&quot;what-has-12-arms-12-legs-and-12-eyes&quot;&gt;What has 12 arms, 12 legs, and 12 eyes?&lt;/h4&gt;
@@ -180,7 +180,7 @@
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;I’m gathering 11 more friends this year to run Ragnar Colorado again. If you’re interested in joining the crazy, email me at hi@cojorado.com.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/whats-a-pirates-favorite-race/&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/whats-a-pirates-favorite-race/&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -188,13 +188,13 @@
 
 <entry>
   <title type="html"><![CDATA[Simple Energy]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/design/simple-energy/" />
-  <id>http://cojorado.com/design/simple-energy</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/design/simple-energy/" />
+  <id>http://localhost:4000/design/simple-energy</id>
   <published>2015-01-13T20:30:11-07:00</published>
   <updated>2015-01-13T20:30:11-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -277,7 +277,7 @@
 &lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/simple-energy/&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/simple-energy/&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -285,13 +285,13 @@
 
 <entry>
   <title type="html"><![CDATA[Girl Develop It]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/design/girl-develop-it/" />
-  <id>http://cojorado.com/design/girl-develop-it</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/design/girl-develop-it/" />
+  <id>http://localhost:4000/design/girl-develop-it</id>
   <published>2015-01-13T19:48:56-07:00</published>
   <updated>2015-01-13T19:48:56-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -348,7 +348,7 @@
   &lt;p&gt;&lt;img src=&quot;/images/design/design-16.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/girl-develop-it/&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/design/girl-develop-it/&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -356,13 +356,13 @@
 
 <entry>
   <title type="html"><![CDATA[Get Involved With Girl Develop It in 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/" />
-  <id>http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/" />
+  <id>http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015</id>
   <published>2015-01-13T14:54:01-07:00</published>
   <updated>2015-01-13T14:54:01-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Girl Develop It is now in over &lt;a href=&quot;http://girldevelopit.com/chapters&quot;&gt;45 cities across the country&lt;/a&gt;. It’s pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years, Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.&lt;/p&gt;
@@ -450,7 +450,7 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If donating money is more your thing, you can &lt;a href=&quot;http://girldevelopit.com/donate&quot;&gt;donate to a chapter&lt;/a&gt; or the global organization.&lt;/em&gt; &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/get-involved-with-girl-develop-it-in-2015/&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -458,13 +458,13 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Norwegian Star Hat]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-norwegian-star-hat/" />
-  <id>http://cojorado.com/knitting/pattern-norwegian-star-hat</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-norwegian-star-hat/" />
+  <id>http://localhost:4000/knitting/pattern-norwegian-star-hat</id>
   <published>2014-12-24T12:57:57-07:00</published>
   <updated>2014-12-24T12:57:57-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -531,7 +531,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-gray1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-norwegian-star-hat/&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -539,13 +539,13 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[2014 a Year in Photos]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/photography/2014-a-year-in-photos/" />
-  <id>http://cojorado.com/photography/2014-a-year-in-photos</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/photography/2014-a-year-in-photos/" />
+  <id>http://localhost:4000/photography/2014-a-year-in-photos</id>
   <published>2014-12-24T12:10:55-07:00</published>
   <updated>2014-12-24T12:10:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -576,7 +576,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15504103843/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/photography/2014-boulder-flatirons.jpg&quot; alt=&quot;Boulder Flatirons&quot; title=&quot;Boulder Flatirons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/photography/2014-a-year-in-photos/&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -584,13 +584,13 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pattern: Brioche Weather Scarf]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/pattern-brioche-weather-scarf/" />
-  <id>http://cojorado.com/knitting/pattern-brioche-weather-scarf</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/knitting/pattern-brioche-weather-scarf/" />
+  <id>http://localhost:4000/knitting/pattern-brioche-weather-scarf</id>
   <published>2014-12-23T16:36:10-07:00</published>
   <updated>2014-12-23T16:36:10-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>carajo@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Recently, I was in New York attending the 2014 Girl Develop It Leadership Summit. One of the chapter leaders that I was sitting next to was knitting a small project and we started talking about all the other awesome projects she was working on. She had briefly mentioned that she was also working on a ‘weather scarf’ and initially I thought “what else would you use a scarf in, besides the weather?”. She went on to explain that each row was it’s own color that was based on the average temperature for that day. &lt;/p&gt;
@@ -699,7 +699,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;Cheers to 2015! &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knitting/pattern-brioche-weather-scarf/&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://localhost:4000&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
