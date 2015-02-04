@@ -154,20 +154,6 @@ Calories burned divided by calories in a taco (271) equals tacos earned!
 
 This can all be easily solved if the user has a heart rate monitor which just gives you calories burned based on heart rate. Which is probably a more accurate way to calculate things than letting a designer try to do math. 
 
-{% highlight c %}
-/* CALCULATE TACOS */
-/* 271 = calories in a Chipotle corn shell taco with black beans, brown rice, lettuce, 
-and cheese. */
-if (SUUNTO_HR > 30) {
-  tacosBurned = userKcal/ 271;
-}
-else { 
-  tacosBurned = calorieBurn / 271;
-}
-
-RESULT = tacosBurned;
-{% endhighlight %}
-
 Here's all the code below for your consumption. You can download the app to your compatible Suunto watch [over at Movescount](http://www.movescount.com/apps/app10071393-Tacos_Earned).
 
 ### Happy running!
