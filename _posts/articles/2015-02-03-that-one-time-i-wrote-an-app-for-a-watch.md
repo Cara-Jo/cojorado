@@ -14,7 +14,7 @@ My favorite thing about running & biking is the fact that I can shove as many ta
 
 Seriously, I love tacos.
 
-When I'm running, all I can think about is tacos. Sometimes, I think about pizza, but mostly it's tacos. I wonder, "how many tacos can I eat when I get home?" quite often.
+When I'm running, all I can think about is tacos. Sometimes, I think about pizza, but mostly it's tacos. I often wonder, "how many tacos can I eat when I get home?".
 
 It has come to the point where I now need  real-time data on how many tacos I've earned during a run. 
 
@@ -36,7 +36,7 @@ First, I need to grab their age and height. This info will come in handy for lat
 
 I also want to find out if the user has a heart rate monitor, so they can pass go and collect 200 tacos.
 
-{% highlight css %}
+{% highlight c %}
 /* If the user does not have an age - they are now 18 */
 if (SUUNTO_USER_AGE > 10) {
   userAge = SUUNTO_USER_AGE;
@@ -61,16 +61,16 @@ if (SUUNTO_HR > 30) {
 
 ### 2. Basal Metabolic Rate
 
-I learned that everyone burns an average amount of calories per day that can be calculated based on their gender, age, height, and weight. In order to properly calculate how many tacos a person can earn on a run, I need to first find their BMR to use as a base number. 
+I learned that everyone burns an average amount of calories per day that can be calculated based on their gender, age, height, and weight. In order to properly calculate how many tacos a person can earn on a run, I need to first find their [BMR](http://en.wikipedia.org/wiki/Basal_metabolic_rate) to use as a base number. 
 
 I don't know, whatever. 
 
 Here's a fun math equation for figuring that number out if you have all the numbers.
 
-[BMR equation]
+![BMR equation](/images/articles/bmr-equation.png)
 
 The following code handles that based on information we can get from a user's profile on Movescount.
-{% highlight css %}
+{% highlight c %}
 /* CALCULATE BASAL METABOLIC RATE BASED ON GENDER */
 
 /* Dudes */
@@ -98,13 +98,13 @@ else {
 
 ### 3. Metabolic Equivalent
 
-There's this thing called a MET or metabolic equivalent. This is defined as the ratio of metabolic rate during a specific physical activity to a reference metabolic rate, set by convention to 3.5 ml O2·kg−1·min−1. 
+There's this thing called a MET or [metabolic equivalent](http://en.wikipedia.org/wiki/Metabolic_equivalent). This is defined as the ratio of metabolic rate during a specific physical activity to a reference metabolic rate, set by convention to 3.5 ml O<sub>2</sub>·kg<sup>−1</sup>·min<sup>−1</sup>.
 
 What?
 
-All I know is that there is a chart that assigned s a MET to an activity, running is an 8 on the MET scale. 
+All I know is that there is a chart that assignes a MET to an activity, running is an 8 on the MET scale. 
 
-{% highlight css %}
+{% highlight c %}
 /* Activity Metabolic equivilent*/
 activityMET = 8;
 {% endhighlight %}
@@ -115,7 +115,7 @@ All this tacos earned business really comes down to how active you are for how l
 
 Fortunately, I can do the math. 
 
-{% highlight css %}
+{% highlight c %}
 /* Convert seconds to hours*/
 activityDuration = SUUNTO_DURATION / 3600;
 {% endhighlight %}
@@ -125,7 +125,7 @@ activityDuration = SUUNTO_DURATION / 3600;
 
 To find out how many calories a person burns while running, based on their age, height, weight and gender all you have to do is take their BMR divide it by 24 (to find how many calories they burn in an hour), multiply that number by the MET value and then multiply that number by activity duration. Obviously.
 
-{% highlight css %}
+{% highlight c %}
 
 /* Calculate Calories burned based on BMR & MET */
 calorieBurn = (userBMR / 24) * activityMET * activityDuration;
@@ -148,17 +148,31 @@ Cool, so that's how many calories a person burns on a run, but how many tacos ha
 
 Actually, the burning question is how many calories are in a taco? Well, that's still up for debate, but let's just say the average healthy runner would go to Chipotle and order a corn soft shell taco with chicken, brown rice, lettuce, and cheese. Because they're healthy like that. They would then consume 271 calories per taco if they went that way. 
 
-### 6. TACOS EARNED!
+### 6. &#161;TACOS EARNED!
 
 Calories burned divided by calories in a taco (271) equals tacos earned! 
 
 This can all be easily solved if the user has a heart rate monitor which just gives you calories burned based on heart rate. Which is probably a more accurate way to calculate things than letting a designer try to do math. 
 
+{% highlight c %}
+/* CALCULATE TACOS */
+/* 271 = calories in a Chipotle corn shell taco with black beans, brown rice, lettuce, 
+and cheese. */
+if (SUUNTO_HR > 30) {
+  tacosBurned = userKcal/ 271;
+}
+else { 
+  tacosBurned = calorieBurn / 271;
+}
+
+RESULT = tacosBurned;
+{% endhighlight %}
+
 Here's all the code below for your consumption. You can download the app to your compatible Suunto watch [over at Movescount](http://www.movescount.com/apps/app10071393-Tacos_Earned).
 
 ### Happy running!
 
-{% highlight css %}
+{% highlight c %}
 /* While in sport mode do this once per second */
 
 /* USER DATA */
