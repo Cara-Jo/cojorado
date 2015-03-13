@@ -294,7 +294,13 @@ $button-size: 1.5rem;
 				
 			}
 		}
-
+	}
+	&.photo-flex {
+		.post {width: 90%; max-width: 90%; 
+			.flex-wrapper p {display: flex; flex-flow: row wrap; justify-content: center; box-orient: horizontal;
+				img {display: flex; max-height: 450px; margin: 10px; }
+			}
+		}
 	}
 	&.hire {
 		

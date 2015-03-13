@@ -7,16 +7,14 @@
 {% include _head.html %}
 
 {% if page.image.feature %}
-  <meta property="og:image" content="
   {% if page.image.feature contains 'http' %}
-      {{ page.image.feature }}
+      <meta property="og:image" content="{{ page.image.feature }}">
     {% else %}
-      {{ site.url }}/images/{{ page.image.feature }}
-    {% endif %}"
+      <meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+  {% endif %}
 {% else %}
-  "{{ site.url }}/images/greatlakesrockies.png"
+  <meta property="og:image" content="{{ site.url }}/images/greatlakesrockies.png">
 {% endif %}
-/>
 </head>
 
 <body class="post">
