@@ -42,7 +42,7 @@ GEM
     jekyll-watch (1.1.2)
       listen (~> 2.7)
     kramdown (1.5.0)
-    liquid (2.6.1)
+    liquid (3.0.3)
     listen (2.7.11)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)

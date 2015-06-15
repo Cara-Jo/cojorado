@@ -131,7 +131,15 @@ blockquote {
 // --------------------------------------------------
 p {
 	margin: 0 0 $indent-var;
-	
+	font-size: 1.2rem;
+	line-height: 1.8rem;
+	font-weight: normal;
+}
+
+p img+em {
+	text-align: center; 
+	font-weight: 300;
+	display: block;
 }
 
 // Code
