@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} cojorado\.com [NC]
+
+# learn or learn/
+RewriteCond %{REQUEST_URI} ^/join/?$ [NC]
+RewriteRule ^ http://cara-jo.github.io/teaching-materials/ [R=301,L]
