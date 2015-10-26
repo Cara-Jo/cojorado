@@ -11,6 +11,6 @@
   {% endif %}
   <div class="post-preview-title">
     <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+   <p class="excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
     <p><small><i>Posted on: {{ post.date | date: "%B %d, %Y" }}</i></small></p>
   </div>

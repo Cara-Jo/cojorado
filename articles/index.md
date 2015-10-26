@@ -11,3 +11,4 @@ image:
 {% for post in site.categories.articles %} 
     {% include _home-post.html %}
 {% endfor %}
+

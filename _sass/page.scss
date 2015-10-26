@@ -355,8 +355,24 @@ $button-size: 1.5rem;
 		border-bottom: 1px solid #E9E8E8;
 		text-align: center;
 		margin-bottom: 20px;
+		h3 {
+			font-size: 1.8em;
+			margin-bottom: .25em;
+		}
+		p {
+			color: lighten($textcolor, 20%);
+			margin-bottom: 1em;
+		}
 	}
-	.category-post-list {margin-bottom: 3em;}
+	.category-post-list {margin-bottom: 3em;
+		.image-wrap {
+				opacity: .6;
+				transition: all .5s ease-in-out;
+				&:hover {
+					opacity: 1;
+				}
+			}
+	}
 }
 /*.home .image-wrap {
 	position: relative;
@@ -398,11 +414,11 @@ $button-size: 1.5rem;
 		background-size: cover;
 		.overlay-color {
 			width: 100%;
-			@include directional($pink, $blue, -45deg);
+			@include directional($textcolor, $blue, -45deg);
 			height: 100%;
 			position: absolute;
 			top: 0;
-			opacity: .7;
+			opacity: .2;
 		}
 	}
 	.headline-wrap {

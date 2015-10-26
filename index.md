@@ -3,5 +3,5 @@ layout: home
 excerpt: ""
 tags: []
 image:
-  feature: cojo-photo-rocks.jpg
+  feature: cojo-craterlakes.jpg
 ---

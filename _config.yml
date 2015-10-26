@@ -6,7 +6,7 @@ url:              http://cojorado.com
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+# permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -14,6 +14,8 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+paginate: 5
+paginate_path: "archive/page/:num/"
 
 kramdown:
   auto_ids: true
