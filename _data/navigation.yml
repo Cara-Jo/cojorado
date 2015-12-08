@@ -2,17 +2,17 @@
 
 #- title: Design
 #  url: /design/
-- title: Articles
-  url: /articles/
+- title: Archive
+  url: /archive/
 
-- title: Design
-  url: /design/
+# - title: Design
+#   url: /design/
 
-- title: Photo
-  url: /photography/
+# - title: Photo
+#   url: /photography/
 
-- title: Knit
-  url: /knitting/
+# - title: Knit
+#   url: /knitting/
 
 - title: About
   url: /about/

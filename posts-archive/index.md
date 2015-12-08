@@ -21,6 +21,7 @@ image:
 {% endfor %}
 
 <!-- Pagination links -->
+Pagination
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>

@@ -62,9 +62,7 @@ body {
 	}
 }
 .top-navigation {
-	@include grid(12,4);
-	@include prefix(12,.25);
-	@include suffix(12,.25);
+
 	margin-bottom: 1em;
 	float: right;
 	display: block;
@@ -89,6 +87,9 @@ body {
 		padding: 0;
 		clear: both;
 		list-style-type: none;
+		display: flex;
+		align-content: flex-end;
+
 	}
 	li {
 		display: block;
@@ -270,15 +271,18 @@ $button-size: 1.5rem;
 	.post,
 	.page {
 		@include container;
-		width: 80%; max-width: 780px;
+		// width: 80%; max-width: 780px;
 		margin-bottom: 2em;
 		@media #{$small} {
 			width: 90%; max-width: 780px;
 		}
 		@media #{$x-large} {
-			width: 80%; max-width: 780px;
+			//width: 80%; max-width: 780px;
 		}
 		img {margin: 20px auto; display: block; width: auto;}
+		.post-list {
+			width: 100%;
+		}
 	}
 	&.photo {
 		.post {text-align: center;
@@ -353,15 +357,22 @@ $button-size: 1.5rem;
 	}
 	.post-preview-title {
 		border-bottom: 1px solid #E9E8E8;
-		text-align: center;
+		text-align: left;
 		margin-bottom: 20px;
 		h3 {
-			font-size: 1.8em;
+			font-size: 1.5em;
 			margin-bottom: .25em;
+			margin-top: .25em;
 		}
 		p {
-			color: lighten($textcolor, 20%);
+			
 			margin-bottom: 1em;
+		}
+		.post-date {
+			color: lighten($textcolor, 20%);
+			margin-bottom: 0;
+			font-size: 80%;
+			text-transform: uppercase
 		}
 	}
 	.category-post-list {margin-bottom: 3em;

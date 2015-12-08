@@ -2,7 +2,13 @@
 
 title:            Cojorado
 locale:           en_US
-url:              http://cojorado.com
+# url:              http://cojorado.com
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
 
 # Jekyll configuration
 
@@ -22,7 +28,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 defaults:
   -

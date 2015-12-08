@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/articles/2015/08/20/how-to-commute-by-bike-in-denver.html</loc>
-    <lastmod>2015-08-20T11:25:36-06:00</lastmod>
+    <loc>/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding.html</loc>
+    <lastmod>2015-12-08T14:01:24-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -28,6 +28,16 @@
   <url>
     <loc>/articles/2015/03/13/cojo-datastax.html</loc>
     <lastmod>2015-03-13T13:23:13-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/photography/2015/02/22/moab-utah.html</loc>
+    <lastmod>2015-02-22T17:35:07-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/photos/2015/02/22/moab-2014.html</loc>
+    <lastmod>2015-02-22T17:28:29-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -72,164 +82,158 @@
   </url>
   <url>
     <loc>/posts-archive/2011-03-10-sample-post.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2012-05-22-readability-post.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-03-18-from-the-great-lakes-to-the-rockies.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-03-20-going-away-meals-galore.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-03-22-top-5-things-ill-miss-about-living-in-michigan.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-03-23-the-best-going-away-party-ever.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-03-24-last-gdi-detroit-class.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-05-22-sample-post-images.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-05-23-readability-feature-post.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-08-12-sample-link-post.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2013-08-16-code-highlighting-post.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2014-07-31-author-override.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2014-12-01-simple-energy-holiday-cards.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2015-01-15-brioche-scarf-1-1-1-14.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts-archive/2015-01-21-stop-telling-people.html</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/archive/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/photography/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/design/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/knitting/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/adventures/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/articles/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/theme-setup/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/posts-archive/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/hire/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2015-08-24T09:54:48-06:00</lastmod>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/photography/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/knitting/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/articles/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/theme-setup/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/posts-archive/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/hire/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/design/</loc>
+    <lastmod>2015-12-08T15:19:29-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
