@@ -8,6 +8,7 @@ tags: []
 image:
   feature: articles/hero-canyonlands.png
 date: 2015-03-26T16:01:11-06:00
+comments: true
 ---
  
 This past weekend, I was fortunate enough to participate in the 40th annual [Canyonlands Half Marathon](http://moabhalfmarathon.com/) in Moab, Utah. I ran this race last year, and it was my first time hanging out in Moab, so I couldn't resist coming back for round two! 

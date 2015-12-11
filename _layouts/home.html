@@ -13,52 +13,23 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <div class="overlay-img">
-    <div class="overlay-color">
-    </div>
-  </div>
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  <div class="headline-wrap"><h1>{{ author.bio }}</h1></div>
-  </div><!-- /.image-wrap -->
-{% endif %}
+{% include _image-wrap.html %}
 
-<div id="main" role="main"> 
-  <div id="index" class="post-list">
+
+<div class="row align-center"> 
+  <div class="post-list column medium-12">
     
     <div class="category-post-list">
       <!-- <h1 class="green">Recently Posted</h1> -->
-      {% for post in paginator.posts %}
+      {% for post in site.categories.articles limit: 5 %}
           {% include _home-post.html %}
       {% endfor %}
     </div>
-     
-  </div><!-- /#index -->
-</div><!-- /#main -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
+    <a href="/archive" class="button large expanded hollow">View all posts</a> 
+  </div>
   
-
-  {% if paginator.next_page %}
-    <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
 </div>
-{% endif %}
+
 {% include _footer.html %}
 
 {% include _scripts.html %}

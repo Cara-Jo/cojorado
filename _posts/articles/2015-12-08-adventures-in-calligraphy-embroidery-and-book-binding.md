@@ -4,10 +4,11 @@ title: "Adventures in Calligraphy, Embroidery & Book Binding"
 modified:
 categories: articles
 excerpt:
-tags: []
+tags: [calligraphy, design, crafts]
 image:
   feature:
 date: 2015-12-08T14:01:24-07:00
+comments: true
 ---
 
 I'm really into crafts, this should not be a surprise to you. I do all sorts of things; photography, knitting, graphic design, and even small adventures in stained glass & jewelry making. For a while, I was getting really exhausted with looking at my computer all day and then all night at home. So I decided to go totally analog with my crafting. 

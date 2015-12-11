@@ -1,5 +1,7 @@
 ---
 layout: page
+image:
+  feature: cojo-craterlakes.jpg
 ---
 <div id="main" role="main"> 
   <div id="index" class="post-list">
@@ -14,19 +16,19 @@ layout: page
   </div><!-- /#index -->
 </div><!-- /#main -->
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div class="expanded button-group">
   {% if paginator.previous_page %}
-    <a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a class="button" rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span class="button disabled">&laquo; Prev</span>
   {% endif %}
 
   
 
   {% if paginator.next_page %}
-    <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a class="button" rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span class="button disabled">Next &raquo;</span>
   {% endif %}
 </div>
 {% endif %}

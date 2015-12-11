@@ -1,0 +1,33 @@
+{% if page.image.feature %}
+<div class="image-wrap featured-img-bg">
+  {% if page.image.feature contains 'http' %}
+  <style> 
+    .featured-img-bg { 
+      background: url("{{ page.image.feature }}");
+      background-size: cover;
+      background-position: center center;
+    }
+  </style>
+  {% else %}
+    <style> 
+    .featured-img-bg { 
+      background: url("{{ site.url }}/images/{{ page.image.feature }}");
+      background-size: cover;
+      background-position: center center;
+    }
+  </style>
+{% endif %} 
+  {% if page.layout == 'home' %}
+    <div class="overlay-img">
+      <div class="overlay-color">
+      </div>
+    </div>
+    <div class="row headline-wrap align-bottom">
+      <div class="column  align-middle">
+        <h1>{{ author.bio }}</h1>
+      </div>
+    </div>
+
+  {% endif %}
+</div><!-- /.image-wrap -->
+{% endif %}

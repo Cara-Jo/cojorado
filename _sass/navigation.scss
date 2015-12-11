@@ -1,0 +1,29 @@
+//navigation.scss
+
+.top-bar {
+    background: $white;
+     border-bottom: 1px solid #E9E8E8;
+    .menu {
+        background: $white;
+        li {
+            a {
+             color: $textcolor;
+            }
+        }
+    }
+    .brand {
+        background: url(/images/cojo-brand.svg) no-repeat;
+        width: 270px; 
+        height: 45px; 
+        display: block;
+        text-indent: -9000px;
+        margin-bottom: .5rem;
+        &a {
+            height: 100%;
+            width: 100%;
+            display: block;
+        }
+    }
+}
+
+

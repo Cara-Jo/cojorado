@@ -1,0 +1,18 @@
+.footer {
+    margin-top: 2em;
+    &.title-bar {
+        background: $textcolor;
+        
+        p {
+            margin-bottom: 0;
+            font-size: 80%;
+        }
+        a {
+            color: $white; 
+            text-decoration: underline;
+        }
+        img {
+            width: 50px; margin: 10px 0;
+        }
+    }
+}

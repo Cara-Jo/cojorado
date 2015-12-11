@@ -23,61 +23,53 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <!-- <div class="overlay-img">
-    <div class="overlay-color">
-    </div>
-  </div> -->
+{% include _image-wrap.html %}
 
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  <!-- {% if page.image.credit %}
-    <span class="image-credit">About this photo: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %} -->
-  </div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main">
-  
-  <article class="post">
-    <div class="headline-wrap">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
-      {% endif %}
-
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
-    
-      {{ content }}
-      <hr />
-      <footer role="contentinfo">
-        <div class="socials">
-
-
-
-          <div class="fb-share-button" data-href="{{ page.link }}" data-layout="button"></div>
-          <a href="https://twitter.com/share" class="twitter-share-button" data-via="CorrinaJo" data-dnt="true">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-<!-- <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-shape="round"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_16.png" /></a>
-<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script> -->
+<div class="row align-center"> 
+  <div class="column medium-12">
+    <div class="post-title">
+      <h1 class=" text-center">{{ page.title }}</h1>
+      <div class="row post-meta">
+        <div class="column medium-6 align-left">
+          <p class="byline"><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         </div>
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
-      </footer>
+        <div class="column medium-6 text-right">
+          <p class="tags">{{page.tags | array_to_sentence_string}}</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="post-full">
+      {{ content }}
+      <!-- <footer role="contentinfo" class="row align-middle">
+        <div class="socials column">
+       
+            <div class="fb-share-button" data-href="{{ page.link }}" data-layout="button"></div>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="cojorado" data-dnt="true">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+           
+          </div>
+         
+        </footer> -->
     </div><!-- /.article-wrap -->
-  {% if site.owner.disqus-shortname and page.comments == true %}
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  {% endif %}
-  </article>
-</div><!-- /#main -->
-{% include _footer.html %}
+    
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+    <div class="related-articles">
+      <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
+        <ul>
+        {% for post in site.related_posts limit:3 %}
+          <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+  </div>
+</div>
+
+
+    {% include _footer.html %}
+  
 
 {% include _scripts.html %}	        
 

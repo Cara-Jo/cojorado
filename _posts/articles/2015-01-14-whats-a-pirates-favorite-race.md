@@ -4,10 +4,11 @@ title: "What's a Pirate's Favorite Race? Ragnaaaar!"
 modified:
 categories: articles
 excerpt: Everything is awesome! Everything is cool when you're part of a [Ragnar Relay] team!
-tags: []
+tags: [running, races]
 image:
   feature: articles/ragnar-hero.jpg
 date: 2015-01-14T13:45:55-07:00
+comments: true
 ---
 
 #### What has 12 arms, 12 legs, and 12 eyes? 

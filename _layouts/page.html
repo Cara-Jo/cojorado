@@ -13,28 +13,10 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <!-- <div class="overlay-img">
-    <div class="overlay-color">
-    </div>
-  </div> -->
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">About this photo: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
+{% include _image-wrap.html %}
 
-<div id="main" role="main">
-  
-  <article class="page">
+<div class="row align-center"> 
+  <div class="post-list column medium-12">
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
@@ -42,9 +24,9 @@
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
-  </article>
-</div><!-- /#index -->
-
+     
+  </div><!-- /#index -->
+</div><!-- /#main -->
 {% include _footer.html %}
 
 {% include _scripts.html %}          

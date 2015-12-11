@@ -8,6 +8,7 @@ tags: []
 image:
   feature: articles/hero-datastax.png
 date: 2015-03-13T13:23:13-06:00
+comments: true
 ---
 
 #### Recently I accepted an offer from [DataStax](http://datastax.com/) as Senior Designer on their Training Team.

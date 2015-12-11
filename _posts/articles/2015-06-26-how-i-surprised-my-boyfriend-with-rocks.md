@@ -8,6 +8,7 @@ tags: []
 image: 
   feature: articles/flagstone-cover.jpg
 date: 2015-06-26T16:30:47-06:00
+comments: true
 ---
 
 Remember that house we [moved into](/articles/that-one-time-i-moved-to-denver/) in April? Since we've moved into it there are a few things we just couldn't stand. One of those things was our side yard. The part of our yard that connects our front yard to our back yard. 

@@ -4,7 +4,7 @@ title: "Get Involved With Girl Develop It in 2015"
 modified:
 categories: articles
 excerpt: In nearly 5 years Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.
-tags: []
+tags: [girl develop it, women in tech]
 image:
   feature: articles/leadershipsummit.png
 date: 2015-01-13T14:54:01-07:00

@@ -3,7 +3,7 @@ layout: page
 title: About Cara Jo
 tags: []
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: cojo-about-grass.jpg
 ---
@@ -15,3 +15,16 @@ After graduating from NMU Cara Jo moved to downtown Detroit, Michigan where she 
 In addition to being Co-Founder for the Boulder chapter Cara Jo also serves on the board as the Chapter Lead, making sure that each chapter gets the resources they need to bring the Girl Develop It mission to their local communities.
 
 Cara Jo lives in Denver, Colorado where she trains for marathons, bikes, and goes on photography adventures in the beautiful Rocky Mountains
+
+[On Twitter: @cojorado](https://twitter.com/cojorado){:class="button"}
+[On Instagram: @cojorado](https://instagram.com/cojorado){:class="button"}
+[hi@cojorado.com](mailto:hi@cojorado.com){:class="button"}
+[At Girl Develop it](http://gdiboulder.com/join){:class="button alert"}
+[On GitHub](http://github.com/cara-jo){:class="button"}
+
+
+### Speaking Events
+
+* Ignite Boulder: 28 
+* Aspriations in Computing Awards Ceremony Keynote: 2015
+* Aspriations in Computing Awards Ceremony Keynote: 2014

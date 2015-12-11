@@ -4,10 +4,11 @@ title: "That One Time I Wrote an App for a Watch"
 modified:
 categories: articles
 excerpt: My favorite thing about running & biking is the fact that I can shove as many tacos in my face as I want when I'm done. 
-tags: []
+tags: [running, app development, tacos]
 image:
   feature: articles/cover-tacos.jpg
 date: 2015-02-03T17:06:05-07:00
+comments: true
 ---
 
 My favorite thing about running & biking is the fact that I can shove as many tacos in my face as I want when I'm done. 

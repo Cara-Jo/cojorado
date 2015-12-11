@@ -8,6 +8,7 @@ tags: []
 image:
   feature: articles/denver-cover.jpg
 date: 2015-06-15T16:06:59-06:00
+comments: true
 ---
 
 Keith and I just moved into a house. **Together**.
