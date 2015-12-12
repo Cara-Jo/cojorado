@@ -19,12 +19,12 @@ Cara Jo lives in Denver, Colorado where she trains for marathons, bikes, and goe
 [On Twitter: @cojorado](https://twitter.com/cojorado){:class="button"}
 [On Instagram: @cojorado](https://instagram.com/cojorado){:class="button"}
 [hi@cojorado.com](mailto:hi@cojorado.com){:class="button"}
-[At Girl Develop it](http://gdiboulder.com/join){:class="button alert"}
+[At Girl Develop it](http://gdiboulder.com/join){:class="button"}
 [On GitHub](http://github.com/cara-jo){:class="button"}
 
 
 ### Speaking Events
 
-* Ignite Boulder: 28 
+* [Ignite Boulder: 28](http://igniteboulder.com/ignite-boulder-28)
 * Aspriations in Computing Awards Ceremony Keynote: 2015
 * Aspriations in Computing Awards Ceremony Keynote: 2014
