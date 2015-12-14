@@ -27,7 +27,7 @@ NO. IT DOES NOT WORK THAT WAY.
 
 I didn't want this book to be some boring run-of-the-mill cojo-sans font. I wanted it to be beautiful and romantic, just like us. Obviously this meant I needed to learn Calligraphy. 
 
-I took to the Internet to try to find video tutorials online, but they were all boring and poorly filmed. Then I tried to find local workshops here in Denver. I found a few, but they were months ago, which did not help my cause. When I thought there was no end in sight, I found Workshop. They were hosting a Calligraphy class and I signed up as fast as I could. 
+I took to the Internet to try to find video tutorials online, but they were all boring and poorly filmed. Then I tried to find local workshops here in Denver. I found a few, but they were months ago, which did not help my cause. When I thought there was no end in sight, I found [Wordshop Paperie](http://wordshopdenver.com/). They were hosting a Calligraphy class and I signed up as fast as I could. 
 
 It was a bit expensive now that I think about it. It was only 2 hours and it cost $100. But I guess that paid for the 2 glasses of wine I had, right? 
 
