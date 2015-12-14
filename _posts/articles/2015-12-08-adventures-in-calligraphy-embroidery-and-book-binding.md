@@ -77,7 +77,7 @@ After I gathered all the pieces, calligraphed the pages, and quadruple checked t
 
 I took a class on Skillshare on how to make a Coptic Stitch book. It's a really pretty way of stitching the pages of the book together so that you can tell that the book was HAND MADE. 
 
-Turns out assembling a book, once you have all the tools, is really easy. Assembly only took about an hour - or however it takes Keith to mow both the front and the back yards. 
+Turns out assembling a book, once you have all the tools, is really easy. Assembly only took about an hour - or however long it takes Keith to mow both the front and the back yards. 
 
 ![](/images/articles/bookbinding-coptic-bind.jpg)
 _Coptic Stitch on the bind almost looks like knitting._
