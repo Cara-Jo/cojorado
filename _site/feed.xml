@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Cojorado</title>
+<title type="text">COJORADO</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://cojorado.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://cojorado.com" />
-<updated>2015-12-11T18:08:41-07:00</updated>
-<id>http://cojorado.com/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-12-11T19:11:22-07:00</updated>
+<id>/</id>
 <author>
   <name>Cara Jo</name>
-  <uri>http://cojorado.com/</uri>
+  <uri>/</uri>
   <email>hi@cojorado.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Adventures in Calligraphy, Embroidery & Book Binding]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding.html" />
-  <id>http://cojorado.com/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding.html" />
+  <id>/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding</id>
   <published>2015-12-08T14:01:24-07:00</published>
   <updated>2015-12-08T14:01:24-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;I’m really into crafts, this should not be a surprise to you. I do all sorts of things; photography, knitting, graphic design, and even small adventures in stained glass &amp;amp; jewelry making. For a while, I was getting really exhausted with looking at my computer all day and then all night at home. So I decided to go totally analog with my crafting. &lt;/p&gt;
@@ -32,11 +32,11 @@
 
 &lt;p&gt;First I had to decide what the topic of this book was going to be about. I could have written a book about pizza, cats, or biking. I didn’t really think he would find much romantic interest in that, so I decided to make it about our first year together. How fitting for a 1-year anniversary present. &lt;/p&gt;
 
-&lt;p&gt;Step 1: Learn Calligraphy&lt;/p&gt;
+&lt;h3 id=&quot;step-1-learn-calligraphy&quot;&gt;Step 1: Learn Calligraphy&lt;/h3&gt;
 
 &lt;p&gt;Sure, that’s easy - just go to the art store and get a thing of ink and one of those fancy pen things and go to town. &lt;/p&gt;
 
-&lt;p&gt;NO. IT DOES NOT WORK THAT WAY.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NO. IT DOES NOT WORK THAT WAY.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I didn’t want this book to be some boring run-of-the-mill cojo-sans font. I wanted it to be beautiful and romantic, just like us. Obviously this meant I needed to learn Calligraphy. &lt;/p&gt;
 
@@ -50,7 +50,7 @@
 
 &lt;p&gt;The class with Evette was really amazing and I’m so glad I decided to take it. I ended up meeting some amazing people in the class and then starting a Facebook group called “Denver Calligraphers Anonymous”. &lt;/p&gt;
 
-&lt;p&gt;Step 2: Do Embroidery&lt;/p&gt;
+&lt;h3 id=&quot;step-2-do-embroidery&quot;&gt;Step 2: Do Embroidery&lt;/h3&gt;
 
 &lt;p&gt;Of course, because it’s me, I couldn’t have just a regular old printed book cover for this thing. IT HAD TO BE AWESOME.&lt;/p&gt;
 
@@ -62,45 +62,49 @@
 
 &lt;p&gt;You should also know, that I’m planning and building this book, all while living with the man that I’m making it for. &lt;/p&gt;
 
-&lt;p&gt;Step 3: MAKE BOOK&lt;/p&gt;
+&lt;h3 id=&quot;step-3-make-book&quot;&gt;Step 3: MAKE BOOK&lt;/h3&gt;
 
 &lt;p&gt;Easy! &lt;/p&gt;
 
-&lt;p&gt;No.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;You need so many things to make a book! Cardboard thick enough (and not corrugated) for the cover, the cover art (my embroidery), decorative paper for the inside of the covers, waxed thread, an upholstery needle, a bone folder, an awl,  and paper for the pages.&lt;/p&gt;
 
-&lt;p&gt;I had to buy 90% of these things, which made explaining my “oh shit I need to go to the craft store” excursions difficult. &lt;/p&gt;
+&lt;p&gt;I had to buy 90% of these things, which made explaining my &lt;em&gt;“oh shit I need to go to the craft store”&lt;/em&gt; excursions difficult. &lt;/p&gt;
 
 &lt;p&gt;After I gathered all the pieces, calligraphed the pages, and quadruple checked that everything was in order I was ready to build this thing. &lt;/p&gt;
 
 &lt;p&gt;I took a class on Skillshare on how to make a Coptic Stitch book. It’s a really pretty way of stitching the pages of the book together so that you can tell that the book was HAND MADE. &lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/articles/book-bind.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Turns out assembling a book, once you have all the tools, is really easy. Assembly only took about an hour - or however it takes Keith to mow both the front and the back yards. &lt;/p&gt;
 
-&lt;p&gt;Step 4: Surprise Boyfriend&lt;/p&gt;
+&lt;h3 id=&quot;step-4-surprise-boyfriend&quot;&gt;Step 4: Surprise Boyfriend&lt;/h3&gt;
 
-&lt;p&gt;This was the hardest part! I wanted to give it to him right when it was finished but resisted. &lt;/p&gt;
+&lt;p&gt;This was the hardest part! I wanted to give it to him right when it was finished, but resisted. &lt;/p&gt;
 
 &lt;p&gt;We had planned a week-long trip to New York to celebrate our anniversary and to watch my best friend run the NYC Marathon. We made reservations at a fancy (but not TOO fancy) Italian restaurant. I am really proud of myself for waiting until after the appetizers to give him the gift. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/articles/book-wrapped.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Needless to say, he was obviously surprised and in total awe that I made this thing for him. &lt;/p&gt;
 
 &lt;p&gt;Now I just need to continue this trend every year :) &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding.html&quot;&gt;Adventures in Calligraphy, Embroidery & Book Binding&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 08, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/12/08/adventures-in-calligraphy-embroidery-and-book-binding.html&quot;&gt;Adventures in Calligraphy, Embroidery & Book Binding&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on December 08, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How I Surprised My boyfriend...with Rocks.]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/06/26/how-i-surprised-my-boyfriend-with-rocks.html" />
-  <id>http://cojorado.com/articles/2015/06/26/how-i-surprised-my-boyfriend-with-rocks</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/06/26/how-i-surprised-my-boyfriend-with-rocks.html" />
+  <id>/articles/2015/06/26/how-i-surprised-my-boyfriend-with-rocks</id>
   <published>2015-06-26T16:30:47-06:00</published>
   <updated>2015-06-26T16:30:47-06:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Remember that house we &lt;a href=&quot;/articles/that-one-time-i-moved-to-denver/&quot;&gt;moved into&lt;/a&gt; in April? Since we’ve moved into it there are a few things we just couldn’t stand. One of those things was our side yard. The part of our yard that connects our front yard to our back yard. &lt;/p&gt;
@@ -212,19 +216,19 @@
 
 &lt;iframe width=&quot;780&quot; height=&quot;439&quot; src=&quot;https://www.youtube.com/embed/GE_3ghVfwBA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/06/26/how-i-surprised-my-boyfriend-with-rocks.html&quot;&gt;How I Surprised My boyfriend...with Rocks.&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on June 26, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/06/26/how-i-surprised-my-boyfriend-with-rocks.html&quot;&gt;How I Surprised My boyfriend...with Rocks.&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on June 26, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[That One Time I Moved to Denver]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/06/15/that-one-time-i-moved-to-denver.html" />
-  <id>http://cojorado.com/articles/2015/06/15/that-one-time-i-moved-to-denver</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/06/15/that-one-time-i-moved-to-denver.html" />
+  <id>/articles/2015/06/15/that-one-time-i-moved-to-denver</id>
   <published>2015-06-15T16:06:59-06:00</published>
   <updated>2015-06-15T16:06:59-06:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Keith and I just moved into a house. &lt;strong&gt;Together&lt;/strong&gt;.&lt;/p&gt;
@@ -275,19 +279,19 @@
 
 &lt;p&gt;Living with Keith is pretty magical though, and I wouldn’t want to live with any other man. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/06/15/that-one-time-i-moved-to-denver.html&quot;&gt;That One Time I Moved to Denver&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on June 15, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/06/15/that-one-time-i-moved-to-denver.html&quot;&gt;That One Time I Moved to Denver&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on June 15, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[I'm Selling Art on Etsy!]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/03/30/im-selling-art-on-etsy.html" />
-  <id>http://cojorado.com/articles/2015/03/30/im-selling-art-on-etsy</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/03/30/im-selling-art-on-etsy.html" />
+  <id>/articles/2015/03/30/im-selling-art-on-etsy</id>
   <published>2015-03-30T12:38:40-06:00</published>
   <updated>2015-03-30T12:38:40-06:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;I’m moving in with my amazing boyfriend in a few weeks. To celebrate this big step in our relationship I wanted to make some cute little illustrations that we could hang on the walls that represented where we have lived over the years. &lt;/p&gt;
@@ -322,19 +326,19 @@
 &lt;script type=&quot;text/javascript&quot;&gt;new Etsy.Mini(5196251,&#39;gallery&#39;,4,2,1,&#39;https://www.etsy.com&#39;);&lt;/script&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/03/30/im-selling-art-on-etsy.html&quot;&gt;I'm Selling Art on Etsy!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on March 30, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/03/30/im-selling-art-on-etsy.html&quot;&gt;I'm Selling Art on Etsy!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on March 30, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Moab & the Canyonlands 1/2 Marathon]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/03/26/moab-and-the-canyonlands-1-2-marathon.html" />
-  <id>http://cojorado.com/articles/2015/03/26/moab-and-the-canyonlands-1-2-marathon</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/03/26/moab-and-the-canyonlands-1-2-marathon.html" />
+  <id>/articles/2015/03/26/moab-and-the-canyonlands-1-2-marathon</id>
   <published>2015-03-26T16:01:11-06:00</published>
   <updated>2015-03-26T16:01:11-06:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;This past weekend, I was fortunate enough to participate in the 40th annual &lt;a href=&quot;http://moabhalfmarathon.com/&quot;&gt;Canyonlands Half Marathon&lt;/a&gt; in Moab, Utah. I ran this race last year, and it was my first time hanging out in Moab, so I couldn’t resist coming back for round two! &lt;/p&gt;
@@ -379,19 +383,19 @@
 &lt;p&gt;It was an awesome trip with great company, perfect weather, and amazing scenery. &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/03/26/moab-and-the-canyonlands-1-2-marathon.html&quot;&gt;Moab & the Canyonlands 1/2 Marathon&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on March 26, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/03/26/moab-and-the-canyonlands-1-2-marathon.html&quot;&gt;Moab & the Canyonlands 1/2 Marathon&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on March 26, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cojo + DataStax = &hearts;]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/03/13/cojo-datastax.html" />
-  <id>http://cojorado.com/articles/2015/03/13/cojo-datastax</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/03/13/cojo-datastax.html" />
+  <id>/articles/2015/03/13/cojo-datastax</id>
   <published>2015-03-13T13:23:13-06:00</published>
   <updated>2015-03-13T13:23:13-06:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;h4 id=&quot;recently-i-accepted-an-offer-from-datastaxhttpdatastaxcom-as-senior-designer-on-their-training-team&quot;&gt;Recently I accepted an offer from &lt;a href=&quot;http://datastax.com/&quot;&gt;DataStax&lt;/a&gt; as Senior Designer on their Training Team.&lt;/h4&gt;
@@ -406,19 +410,19 @@
 
 &lt;p&gt;&lt;strong&gt;Woo! Go DataStax!&lt;/strong&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/03/13/cojo-datastax.html&quot;&gt;Cojo + DataStax = &hearts;&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on March 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/03/13/cojo-datastax.html&quot;&gt;Cojo + DataStax = &hearts;&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on March 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Moab, Utah]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/photography/2015/02/22/moab-utah.html" />
-  <id>http://cojorado.com/photography/2015/02/22/moab-utah</id>
+  <link rel="alternate" type="text/html" href="/photography/2015/02/22/moab-utah.html" />
+  <id>/photography/2015/02/22/moab-utah</id>
   <published>2015-02-22T17:35:07-07:00</published>
   <updated>2015-02-22T17:35:07-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7513/16235120796_2ff0debbc1_k.jpg&quot; alt=&quot;Coloardo Springs&quot; /&gt;
@@ -427,36 +431,36 @@
 &lt;img src=&quot;https://farm8.staticflickr.com/7513/16235120796_2ff0debbc1_k.jpg&quot; alt=&quot;Coloardo Springs&quot; /&gt;
 &lt;img src=&quot;https://farm9.staticflickr.com/8607/15526928434_7448856a94_h.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photography/2015/02/22/moab-utah.html&quot;&gt;Moab, Utah&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on February 22, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/photography/2015/02/22/moab-utah.html&quot;&gt;Moab, Utah&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on February 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Moab 2014]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/photos/2015/02/22/moab-2014.html" />
-  <id>http://cojorado.com/photos/2015/02/22/moab-2014</id>
+  <link rel="alternate" type="text/html" href="/photos/2015/02/22/moab-2014.html" />
+  <id>/photos/2015/02/22/moab-2014</id>
   <published>2015-02-22T17:28:29-07:00</published>
   <updated>2015-02-22T17:28:29-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Moab! Woo! &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photos/2015/02/22/moab-2014.html&quot;&gt;Moab 2014&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on February 22, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/photos/2015/02/22/moab-2014.html&quot;&gt;Moab 2014&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on February 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[That One Time I Wrote an App for a Watch]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/02/03/that-one-time-i-wrote-an-app-for-a-watch.html" />
-  <id>http://cojorado.com/articles/2015/02/03/that-one-time-i-wrote-an-app-for-a-watch</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/02/03/that-one-time-i-wrote-an-app-for-a-watch.html" />
+  <id>/articles/2015/02/03/that-one-time-i-wrote-an-app-for-a-watch</id>
   <published>2015-02-03T17:06:05-07:00</published>
   <updated>2015-02-03T17:06:05-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;My favorite thing about running &amp;amp; biking is the fact that I can shove as many tacos in my face as I want when I’m done. &lt;/p&gt;
@@ -671,19 +675,19 @@
 &lt;span class=&quot;n&quot;&gt;RESULT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tacosBurned&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/02/03/that-one-time-i-wrote-an-app-for-a-watch.html&quot;&gt;That One Time I Wrote an App for a Watch&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/02/03/that-one-time-i-wrote-an-app-for-a-watch.html&quot;&gt;That One Time I Wrote an App for a Watch&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on February 03, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What's a Pirate's Favorite Race? Ragnaaaar!]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/01/14/whats-a-pirates-favorite-race.html" />
-  <id>http://cojorado.com/articles/2015/01/14/whats-a-pirates-favorite-race</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/01/14/whats-a-pirates-favorite-race.html" />
+  <id>/articles/2015/01/14/whats-a-pirates-favorite-race</id>
   <published>2015-01-14T13:45:55-07:00</published>
   <updated>2015-01-14T13:45:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;h4 id=&quot;what-has-12-arms-12-legs-and-12-eyes&quot;&gt;What has 12 arms, 12 legs, and 12 eyes?&lt;/h4&gt;
@@ -755,19 +759,19 @@
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;I’m gathering 11 more friends this year to run Ragnar Colorado again. If you’re interested in joining the crazy, email me at hi@cojorado.com.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/01/14/whats-a-pirates-favorite-race.html&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/01/14/whats-a-pirates-favorite-race.html&quot;&gt;What's a Pirate's Favorite Race? Ragnaaaar!&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on January 14, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Simple Energy]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/design/2015/01/13/simple-energy.html" />
-  <id>http://cojorado.com/design/2015/01/13/simple-energy</id>
+  <link rel="alternate" type="text/html" href="/design/2015/01/13/simple-energy.html" />
+  <id>/design/2015/01/13/simple-energy</id>
   <published>2015-01-13T20:30:11-07:00</published>
   <updated>2015-01-13T20:30:11-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -850,19 +854,19 @@
 &lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/2015/01/13/simple-energy.html&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/design/2015/01/13/simple-energy.html&quot;&gt;Simple Energy&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Girl Develop It]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/design/2015/01/13/girl-develop-it.html" />
-  <id>http://cojorado.com/design/2015/01/13/girl-develop-it</id>
+  <link rel="alternate" type="text/html" href="/design/2015/01/13/girl-develop-it.html" />
+  <id>/design/2015/01/13/girl-develop-it</id>
   <published>2015-01-13T19:48:56-07:00</published>
   <updated>2015-01-13T19:48:56-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -919,19 +923,19 @@
   &lt;p&gt;&lt;img src=&quot;/images/design/design-16.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/design/2015/01/13/girl-develop-it.html&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/design/2015/01/13/girl-develop-it.html&quot;&gt;Girl Develop It&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Get Involved With Girl Develop It in 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/articles/2015/01/13/get-involved-with-girl-develop-it-in-2015.html" />
-  <id>http://cojorado.com/articles/2015/01/13/get-involved-with-girl-develop-it-in-2015</id>
+  <link rel="alternate" type="text/html" href="/articles/2015/01/13/get-involved-with-girl-develop-it-in-2015.html" />
+  <id>/articles/2015/01/13/get-involved-with-girl-develop-it-in-2015</id>
   <published>2015-01-13T14:54:01-07:00</published>
   <updated>2015-01-13T14:54:01-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Girl Develop It is now in over &lt;a href=&quot;http://girldevelopit.com/chapters&quot;&gt;45 cities across the country&lt;/a&gt;. It’s pretty simple to see why; we offer affordable opportunities for women to learn software development. In nearly 5 years, Girl Develop It has grown to nearly 30,000 members across the country and empowers over 1,000 women a month.&lt;/p&gt;
@@ -1019,19 +1023,19 @@ Review/enhance existing curriculum or create new.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If donating money is more your thing, you can &lt;a href=&quot;http://girldevelopit.com/donate&quot;&gt;donate to a chapter&lt;/a&gt; or the global organization.&lt;/em&gt; &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/articles/2015/01/13/get-involved-with-girl-develop-it-in-2015.html&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/2015/01/13/get-involved-with-girl-develop-it-in-2015.html&quot;&gt;Get Involved With Girl Develop It in 2015&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on January 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Pattern: Norwegian Star Hat]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/2014/12/24/pattern-norwegian-star-hat.html" />
-  <id>http://cojorado.com/knitting/2014/12/24/pattern-norwegian-star-hat</id>
+  <link rel="alternate" type="text/html" href="/knitting/2014/12/24/pattern-norwegian-star-hat.html" />
+  <id>/knitting/2014/12/24/pattern-norwegian-star-hat</id>
   <published>2014-12-24T12:57:57-07:00</published>
   <updated>2014-12-24T12:57:57-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ravelry.com/badges/redirect?p=basic-norwegian-star-hat&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;http://api.ravelry.com/badges/projects?p=basic-norwegian-star-hat&amp;amp;t=.gif&quot; style=&quot;border: none;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1098,19 +1102,19 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/knitting/norwegian-gray1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/2014/12/24/pattern-norwegian-star-hat.html&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/knitting/2014/12/24/pattern-norwegian-star-hat.html&quot;&gt;Pattern: Norwegian Star Hat&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[2014 a Year in Photos]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/photography/2014/12/24/2014-a-year-in-photos.html" />
-  <id>http://cojorado.com/photography/2014/12/24/2014-a-year-in-photos</id>
+  <link rel="alternate" type="text/html" href="/photography/2014/12/24/2014-a-year-in-photos.html" />
+  <id>/photography/2014/12/24/2014-a-year-in-photos</id>
   <published>2014-12-24T12:10:55-07:00</published>
   <updated>2014-12-24T12:10:55-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -1141,19 +1145,19 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/carajo/15504103843/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/photography/2014-boulder-flatirons.jpg&quot; alt=&quot;Boulder Flatirons&quot; title=&quot;Boulder Flatirons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/photography/2014/12/24/2014-a-year-in-photos.html&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/photography/2014/12/24/2014-a-year-in-photos.html&quot;&gt;2014 a Year in Photos&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on December 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Pattern: Brioche Weather Scarf]]></title>
-  <link rel="alternate" type="text/html" href="http://cojorado.com/knitting/2014/12/23/pattern-brioche-weather-scarf.html" />
-  <id>http://cojorado.com/knitting/2014/12/23/pattern-brioche-weather-scarf</id>
+  <link rel="alternate" type="text/html" href="/knitting/2014/12/23/pattern-brioche-weather-scarf.html" />
+  <id>/knitting/2014/12/23/pattern-brioche-weather-scarf</id>
   <published>2014-12-23T16:36:10-07:00</published>
   <updated>2014-12-23T16:36:10-07:00</updated>
   <author>
     <name>Cara Jo</name>
-    <uri>http://cojorado.com</uri>
+    <uri></uri>
     <email>hi@cojorado.com</email>
   </author>
   <content type="html">&lt;p&gt;Recently, I was in New York attending the 2014 Girl Develop It Leadership Summit. One of the chapter leaders that I was sitting next to was knitting a small project and we started talking about all the other awesome projects she was working on. She had briefly mentioned that she was also working on a ‘weather scarf’ and initially I thought “what else would you use a scarf in, besides the weather?”. She went on to explain that each row was it’s own color that was based on the average temperature for that day. &lt;/p&gt;
@@ -1262,7 +1266,7 @@ Size 6 circular needles size 6 double pointed needles&lt;/p&gt;
 &lt;p&gt;Cheers to 2015! &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://cojorado.com/knitting/2014/12/23/pattern-brioche-weather-scarf.html&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;http://cojorado.com&quot;&gt;Cojorado&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/knitting/2014/12/23/pattern-brioche-weather-scarf.html&quot;&gt;Pattern: Brioche Weather Scarf&lt;/a&gt; was originally published by Cara Jo at &lt;a href=&quot;&quot;&gt;COJORADO&lt;/a&gt; on December 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

@@ -2,7 +2,7 @@
 
 title:            COJORADO
 locale:           en_US
-url:              http://cojorado.com
+# url:              http://cojorado.com
 
 # Serving
 detach:  false
