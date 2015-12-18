@@ -7,39 +7,26 @@
 {% include _head.html %}
 </head>
 
-<body class="page" id="category">
+<body class="page">
 {% include _facebooksdk.html %}
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <!-- <div class="overlay-img">
-    <div class="overlay-color">
-    </div>
-  </div> -->
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
- 
-  </div><!-- /.image-wrap -->
-{% endif %}
+{% include _image-wrap.html %}
 
-<div id="main" role="main"> 
-  
+<div class="row align-center"> 
+  <div class="post-list column medium-12">
     <h1>{{ page.title }}</h1>
-    <div class="post-list">
+    <div class="article-wrap">
       {{ content }}
     </div><!-- /.article-wrap -->
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
-</div><!-- /#index -->
+     
+  </div><!-- /#index -->
+</div><!-- /#main -->
 {% include _footer.html %}
 
 {% include _scripts.html %}          
