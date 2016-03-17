@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "194 Days of Calligraphy"
+title: "My first 194 Days of Calligraphy"
 modified:
 categories: articles
 excerpt:
