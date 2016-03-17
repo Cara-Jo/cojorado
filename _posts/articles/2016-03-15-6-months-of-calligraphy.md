@@ -13,7 +13,7 @@ date: 2016-03-11T14:39:25-06:00
 On August 30th, I took a 2-hour Calligraphy workshop at Wordshop in Denver. It’s been six months since I first used a pointed Calligraphy pen and I wanted to share my growth!
 
 
-###Why Calligraphy?
+### Why Calligraphy?
 
 I wanted to add hand lettering to my design skills. I always felt like I was lacking in typography layout. I took a few classes on Skillshare and some other places, but it just never clicked.
 
@@ -23,7 +23,7 @@ At the same time, I was also trying to use my computer less when I wasn’t work
 
 In the beginning, I had no real idea what I was going to use Calligraphy for – but I figured it wouldn’t hurt to learn how to make letters all proper.
 
-###Day 1
+### Day 1
 
 The first day I used a pointed pen I was hooked. It was everything I needed in my quest for an analog hobby. The nib, the holder, the paper, the sound of letters being formed, it was all perfection.
 
@@ -34,7 +34,7 @@ I went home after my first class and showed Keith and my mom the amazing skill I
 
  
 
-###Days 2-60
+### Days 2-60
 
 I immediately got frustrated.
 
@@ -50,7 +50,7 @@ Many trips to the art store later – I basically gave up and didn’t look at t
 
 ![](/images/articles/calligraphy-194-1.jpg)
 
-###Days 60 – 90
+### Days 60 – 90
 
 It was almost Christmas! I had been practicing my letters diligently and figured out the problem was the grid sheet I was using! I was trying TOO hard to follow the angle on the sheet that I wasn’t paying any attention to the letter. Once I figured that out – everything clicked.
 
@@ -68,7 +68,7 @@ It was enlightening for sure. So I took this enlightenment and decided to take a
 
 ![](/images/articles/calligraphy-194-4.jpg)
 
-###Days 90 – present
+### Days 90 – present
 
 I needed to focus on what I wanted to do with my calligraphy. I LOVED the response my friends had about their Christmas cards. It made my heart happy that they were delighted to receive such a personalized piece of mail!
 
