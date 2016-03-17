@@ -58,7 +58,7 @@ It was almost Christmas! I had been practicing my letters diligently and figured
 
 The best thing for my Calligraphy was Christmas. I forced myself to make 50+ hand calligraphed Christmas cards for my friends. They were a little obscene, but they were pretty!
 
-Side note: I had this grand idea to start a company called “Elegant Expletives” that would be expletive greeting cards. Turns out I just want to make pretty things for people who want them. Siloing myself to pretty things filled with swears was not good for me.
+*Side note: I had this grand idea to start a company called “Elegant Expletives” that would be expletive greeting cards. Turns out I just want to make pretty things for people who want them. Siloing myself to pretty things filled with swears was not good for me.*
 
 ![](/images/articles/calligraphy-194-3.jpg)
 
