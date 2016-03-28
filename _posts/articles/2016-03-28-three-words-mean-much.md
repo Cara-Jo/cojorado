@@ -9,9 +9,8 @@ image:
   feature: articles/denver-bike.jpg
 date: 2016-03-28T11:39:25-06:00
 ---
-#The three words that mean so much when they come from a cyclist.
 
-"On. Your. Left."
+> "On. Your. Left."
 
 _Also known as calling your pass._
 
