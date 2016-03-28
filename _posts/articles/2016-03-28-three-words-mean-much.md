@@ -10,7 +10,7 @@ image:
 date: 2016-03-28T11:39:25-06:00
 ---
 
-> "On. Your. Left."
+> **"On. Your. Left."**
 
 _Also known as calling your pass._
 
@@ -18,7 +18,7 @@ I ride my bike a lot. I ride it to work, I ride it to meet friends for a drink, 
 
 Saying "On your left" is a courtesy that should be extended by every single cyclist - and, more importantly, every single cyclist using one of the many multi-use paths in the great city of Denver. You might be asking me "Why is this important?", so I've created you an FAQ of sorts as an easy reference. 
 
-### Why do I need to say 'On your left'?
+#### Why do I need to say 'On your left'?
 
 Easy - it lets other cyclists and pedestrians know you're coming up behind them at a faster speed than they are traveling. 
 
